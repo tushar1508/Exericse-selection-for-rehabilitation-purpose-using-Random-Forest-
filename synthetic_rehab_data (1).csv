@@ -1,0 +1,748 @@
+Patient ID,Age,Gender,Injury,Pain Level,Goal,Exercise 1,Exercise 2,Exercise 3,E1_sets,E1_reps,E2_sets,E2_reps,E3_sets,E3_reps,Improvement Score
+9882,24,Female,Hip Arthritis,3,Reduced Pain (Hip),Range of Motion Exercises (hip),Glute Bridges,"Water Exercises (walking, aerobics)",2,12,1,12,4,8,4
+2218,37,Female,Ankle Strain,6,Reduced Pain (Ankle),Balance Exercises (single leg stance),Calf Raises (seated),Ankle Circles (both directions),2,9,1,11,2,9,5
+6001,37,Female,Plantar Fasciitis,6,Reduced Pain (Plantar Fascia),Towel Toe Curls,Short Foot Exercises,Plantar Fascia Massage,4,11,4,10,3,8,3
+3925,61,Female,Hip Labral Tear,5,Increased Strength (Hip),Internal Rotations (light weight),Glute Bridges,Plank (high),4,11,2,12,4,9,9
+6134,51,Female,Wrist Carpal Tunnel,0,Reduced Pain (Wrist),Wrist Extensor Stretches,Wrist Stretches,Wrist Flexor Stretches,3,10,3,10,4,11,10
+7204,59,Male,Lordosis,4,Strengthening Abdominal Muscles,Strengthening Exercises (Abs and Lower Back),Stretching Exercises,Pelvic Tilt Exercises,4,12,1,11,3,12,5
+2908,35,Female,Hip Arthritis,5,Reduced Pain (Hip),Glute Bridges,"Water Exercises (walking, aerobics)",Range of Motion Exercises (hip),3,10,2,9,2,8,7
+1682,40,Female,Hip Arthritis,9,Reduced Pain (Hip),"Water Exercises (walking, aerobics)",Glute Bridges,Range of Motion Exercises (hip),4,12,3,11,4,9,5
+2986,49,Male,Hip Arthritis,8,Reduced Pain (Hip),Glute Bridges,Range of Motion Exercises (hip),"Water Exercises (walking, aerobics)",4,8,3,8,2,12,3
+8402,38,Female,Meniscus Tear,4,Improved ROM (Knee),Calf Raises (seated),Short Arc Quad Sets,Side Plank,2,12,4,12,3,8,6
+5480,28,Male,Tennis Elbow,10,Improved Strength (Forearm),Grip Strengthening Exercises,Eccentric Wrist Extensions,Wrist Extensor Stretches,3,9,2,9,3,8,9
+9993,38,Male,Osgood-Schlatter,6,Reduced Pain (Knee),Bird Dog,Calf Raises (seated),Straight Leg Raises,4,8,1,8,3,10,3
+8003,32,Female,Meniscus Tear,0,Improved ROM (Knee),Ankle Circles,Calf Raises (seated),Short Arc Quad Sets,3,8,3,10,3,8,9
+2310,60,Female,Plantar Fasciitis,9,Improved Flexibility (Plantar Fascia),Plantar Fascia Massage,Short Foot Exercises,Towel Toe Curls,2,10,1,9,3,11,8
+1473,26,Female,Wrist Carpal Tunnel,0,Improved Flexibility (Wrist),Wrist Flexor Stretches,Grip Strengthening Exercises,Wrist Extensor Stretches,3,8,1,12,3,10,8
+3140,62,Male,Meniscus Tear,4,Reduced Pain (Knee),Ankle Circles,Short Arc Quad Sets,Side Plank,2,11,3,10,2,12,3
+8801,48,Female,Hip Labral Tear,6,Improved ROM (Hip),External Rotations,Plank (high),Internal Rotations (light weight),2,10,4,12,3,8,3
+9847,41,Male,Shoulder Bursitis,9,Reduced Pain (Shoulder),Plank (high),Scapular Retractions,Pendulum Exercises,2,10,4,11,2,9,3
+1042,43,Male,Hip Labral Tear,10,Improved ROM (Hip),Plank (high),Glute Bridges,Internal Rotations (light weight),4,9,1,11,2,8,7
+7687,54,Male,Shoulder Bursitis,0,Improved Flexibility (Shoulder),Scapular Retractions,Pendulum Exercises,Plank (high),2,9,1,11,3,11,6
+8895,29,Female,Plantar Fasciitis,0,Improved Flexibility (Plantar Fascia),Plantar Fascia Massage,Towel Toe Curls,Calf Stretches,4,10,4,10,2,11,5
+4716,61,Male,Patellar Tendinitis,3,Reduced Pain (Knee),Wall Sits,Hamstring Curls (light weight),Ankle Circles,4,9,2,9,3,10,6
+9002,44,Female,Scoliosis,2,Improved Posture,Stretching Exercises,Core Strengthening Exercises,Back Extension Exercises,4,12,4,10,2,8,6
+5718,61,Male,Kyphosis,6,Strengthening Posterior Chain Muscles,Thoracic Extension Exercises,Stretching Exercises,Strengthening Exercises (Back and Shoulders),2,11,1,8,2,8,4
+7113,60,Male,Golfer's Elbow,3,Improved Strength (Forearm),Grip Strengthening Exercises,Wrist Flexor Stretches,Eccentric Wrist Flexions,2,10,3,10,3,11,5
+1771,31,Female,ACL Tear,6,Increased Strength (Knee),Plank (high),Ankle Circles,"Lunges (forward/reverse, bodyweight)",4,8,4,9,4,9,8
+1593,53,Female,Hip Arthritis,3,Reduced Pain (Hip),Glute Bridges,Range of Motion Exercises (hip),"Water Exercises (walking, aerobics)",4,12,3,12,3,8,7
+8449,64,Male,Scoliosis,0,Increased Core Strength,Core Strengthening Exercises,Back Extension Exercises,Pilates,3,11,1,12,4,12,9
+9474,29,Male,Ankle Sprain,9,Improved Stability (Ankle),Ankle Circles (both directions),Calf Raises (seated),Towel Toe Curls,4,10,2,9,4,12,3
+2513,52,Female,Wrist Sprain,3,Improved ROM (Wrist),Wrist Stretches,Grip Strengthening Exercises,Wrist Flexor Stretches,3,11,1,11,3,8,5
+4453,24,Male,Wrist Strain,4,Improved Flexibility (Wrist),Grip Strengthening Exercises,Wrist Flexor Stretches,Wrist Stretches,2,8,1,12,3,10,8
+8462,51,Female,Golfer's Elbow,1,Reduced Pain (Elbow),Eccentric Wrist Flexions,Grip Strengthening Exercises,Wrist Flexor Stretches,2,12,2,12,3,8,5
+1173,57,Female,Meniscus Tear,7,Reduced Pain (Knee),Side Plank,Walking Squats (modified),Calf Raises (seated),2,9,4,10,4,8,3
+7202,43,Male,Wrist Strain,8,Reduced Pain (Wrist),Wrist Flexor Stretches,Wrist Extensor Stretches,Grip Strengthening Exercises,3,9,2,9,3,9,8
+6394,26,Male,Plantar Fasciitis,2,Reduced Pain (Plantar Fascia),Calf Stretches,Short Foot Exercises,Plantar Fascia Massage,3,9,4,11,3,11,5
+2768,62,Female,Scoliosis,3,Improved Posture,Back Extension Exercises,Pilates,Stretching Exercises,3,9,4,12,2,11,5
+8044,32,Male,Wrist Strain,1,Improved Flexibility (Wrist),Wrist Flexor Stretches,Grip Strengthening Exercises,Wrist Stretches,2,11,4,12,3,12,8
+1745,42,Male,Hip Labral Tear,9,Improved ROM (Hip),Glute Bridges,Internal Rotations (light weight),External Rotations,3,9,4,8,4,12,4
+5406,20,Male,Golfer's Elbow,4,Reduced Pain (Elbow),Grip Strengthening Exercises,Wrist Flexor Stretches,Eccentric Wrist Flexions,2,8,3,9,2,11,3
+2539,33,Male,Wrist Strain,2,Reduced Pain (Wrist),Wrist Extensor Stretches,Grip Strengthening Exercises,Wrist Flexor Stretches,3,8,4,10,3,10,9
+9239,51,Female,Achilles Tendinitis,6,Reduced Pain (Achilles Tendon),Calf Raises (seated),Eccentric Heel Drops,Wall Sits,3,12,2,8,2,9,5
+2952,37,Male,ACL Tear,9,Increased Strength (Knee),Hamstring Curls (light weight),Walking Squats (modified),Plank (high),4,9,1,12,2,12,10
+1676,60,Female,Achilles Tendinitis,7,Increased Strength (Calf),Calf Raises (seated),Ankle Circles (both directions),Wall Sits,4,9,1,11,3,9,3
+5184,41,Female,Shoulder Bursitis,9,Improved Flexibility (Shoulder),Scapular Retractions,Pendulum Exercises,Plank (high),3,10,2,10,4,12,8
+2113,53,Female,Hip Arthritis,2,Reduced Pain (Hip),Range of Motion Exercises (hip),"Water Exercises (walking, aerobics)",Glute Bridges,2,8,4,9,2,11,10
+5066,43,Female,Meniscus Tear,9,Improved ROM (Knee),Hamstring Curls (light weight),Short Arc Quad Sets,Ankle Circles,2,9,4,9,4,9,7
+1461,42,Female,Golfer's Elbow,7,Reduced Pain (Elbow),Grip Strengthening Exercises,Eccentric Wrist Flexions,Wrist Flexor Stretches,3,11,2,11,3,11,7
+8076,55,Female,Osgood-Schlatter,10,Reduced Pain (Knee),Calf Raises (seated),Straight Leg Raises,Ankle Circles,3,12,4,11,2,8,5
+1917,56,Male,Shoulder Bursitis,4,Reduced Pain (Shoulder),Posture Exercises,Scapular Retractions,Pendulum Exercises,3,12,1,11,4,9,3
+9588,41,Female,Wrist Carpal Tunnel,0,Improved Flexibility (Wrist),Wrist Extensor Stretches,Wrist Stretches,Grip Strengthening Exercises,4,9,2,8,4,12,5
+2142,22,Female,Frozen Shoulder,5,Improved ROM (Shoulder),Heat Therapy,Passive Range of Motion Exercises (shoulder),Doorway Shoulder Stretches,2,11,2,9,2,12,4
+1236,24,Female,Labrum Tear,10,Improved ROM (Shoulder),Pendulum Exercises,External Rotations (light weight),Plank (high),3,9,3,12,3,9,4
+6020,36,Female,Wrist Sprain,9,Improved Stability (Wrist),Wrist Flexor Stretches,Wrist Stretches,Grip Strengthening Exercises,4,12,2,8,4,12,3
+3686,38,Male,Hip Bursitis,4,Improved Flexibility (Hip),Side Plank,Glute Bridges,Clamshells,3,12,4,10,2,10,4
+4278,34,Male,Hip Labral Tear,8,Increased Strength (Hip),Plank (high),External Rotations,Glute Bridges,2,10,4,10,3,11,6
+2366,60,Male,Wrist Carpal Tunnel,9,Reduced Pain (Wrist),Wrist Stretches,Wrist Flexor Stretches,Wrist Extensor Stretches,3,9,3,11,3,9,4
+1816,26,Male,Labrum Tear,8,Improved Stability (Shoulder),Pendulum Exercises,External Rotations (light weight),Internal Rotations (isometric),3,11,3,12,2,11,4
+8224,24,Male,Rotator Cuff Tear,6,Improved ROM (Shoulder),External Rotations (light weight),Pendulum Exercises,Internal Rotations (isometric),2,10,3,12,2,8,7
+2464,24,Male,Hip Bursitis,6,Reduced Pain (Hip),Side Plank,Glute Bridges,Hip Flexor Stretches,3,8,4,9,3,12,3
+1230,30,Female,Ankle Sprain,2,Improved Stability (Ankle),Ankle Circles (both directions),Towel Toe Curls,Balance Exercises (single leg stance),3,11,1,9,2,9,5
+7310,36,Male,Achilles Tendinitis,7,Increased Strength (Calf),Ankle Circles (both directions),Wall Sits,Calf Raises (seated),4,10,3,12,4,9,6
+7673,27,Female,Wrist Carpal Tunnel,1,Reduced Pain (Wrist),Wrist Stretches,Wrist Extensor Stretches,Grip Strengthening Exercises,4,9,4,11,3,11,3
+3104,50,Male,Achilles Tendinitis,0,Increased Strength (Calf),Calf Raises (seated),Wall Sits,Ankle Circles (both directions),2,8,2,8,4,11,8
+5721,56,Male,Ankle Strain,6,Improved Flexibility (Ankle),Plantar Fascia Massage,Ankle Circles (both directions),Calf Raises (seated),2,8,3,8,2,12,9
+4580,21,Male,Osgood-Schlatter,3,Reduced Inflammation (Knee),Straight Leg Raises,Bird Dog,Hamstring Curls (light weight),4,11,3,11,4,12,9
+7877,39,Female,Kyphosis,1,Strengthening Posterior Chain Muscles,Stretching Exercises,Thoracic Extension Exercises,Posture Correction Exercises,3,9,3,11,3,9,10
+6428,33,Female,Tennis Elbow,4,Improved Strength (Forearm),Wrist Extensor Stretches,Grip Strengthening Exercises,Eccentric Wrist Extensions,2,10,3,11,3,10,10
+1125,52,Female,Hip Bursitis,3,Reduced Pain (Hip),Clamshells,Glute Bridges,Side Plank,2,10,1,9,2,9,9
+6163,52,Male,ACL Tear,7,Improved ROM (Knee),Ankle Circles,"Lunges (forward/reverse, bodyweight)",Hamstring Curls (light weight),4,12,3,11,3,8,9
+2343,64,Male,Meniscus Tear,4,Improved ROM (Knee),Walking Squats (modified),Calf Raises (seated),Hamstring Curls (light weight),3,10,3,10,3,11,7
+7096,28,Female,Wrist Strain,4,Improved Flexibility (Wrist),Grip Strengthening Exercises,Wrist Extensor Stretches,Wrist Flexor Stretches,3,12,1,10,3,12,7
+7962,34,Female,Patellar Tendinitis,3,Increased Flexibility (Knee),Hamstring Curls (light weight),Plank (high),Quad Extensions (isometric),4,9,2,12,2,10,8
+3047,36,Female,ACL Tear,5,Increased Strength (Knee),"Lunges (forward/reverse, bodyweight)",Plank (high),Walking Squats (modified),2,10,4,8,3,12,3
+4423,50,Female,Frozen Shoulder,6,Improved ROM (Shoulder),Passive Range of Motion Exercises (shoulder),Heat Therapy,Doorway Shoulder Stretches,4,9,4,12,3,11,6
+3673,44,Female,Hip Labral Tear,5,Increased Strength (Hip),Plank (high),External Rotations,Glute Bridges,3,11,1,8,4,10,8
+7274,57,Female,Patellar Tendinitis,1,Increased Flexibility (Knee),Ankle Circles,Wall Sits,Quad Extensions (isometric),4,11,3,12,4,12,10
+8482,64,Male,Wrist Carpal Tunnel,3,Reduced Pain (Wrist),Grip Strengthening Exercises,Wrist Extensor Stretches,Wrist Stretches,3,10,1,10,4,11,6
+3297,23,Male,Wrist Carpal Tunnel,7,Improved Flexibility (Wrist),Wrist Stretches,Wrist Flexor Stretches,Grip Strengthening Exercises,2,10,2,8,3,11,6
+5389,52,Female,Wrist Sprain,1,Improved ROM (Wrist),Grip Strengthening Exercises,Wrist Extensor Stretches,Wrist Flexor Stretches,4,11,2,11,4,9,3
+8871,25,Female,Kyphosis,0,Strengthening Posterior Chain Muscles,Strengthening Exercises (Back and Shoulders),Stretching Exercises,Thoracic Extension Exercises,4,12,4,10,4,9,3
+8907,33,Female,Osgood-Schlatter,2,Reduced Pain (Knee),Straight Leg Raises,Hamstring Curls (light weight),Calf Raises (seated),3,11,4,8,4,11,3
+3435,32,Male,Meniscus Tear,0,Reduced Pain (Knee),Hamstring Curls (light weight),Ankle Circles,Walking Squats (modified),2,10,2,9,2,12,5
+2593,63,Male,Scoliosis,0,Improved Posture,Back Extension Exercises,Core Strengthening Exercises,Stretching Exercises,4,10,1,8,3,11,10
+6519,31,Male,Wrist Sprain,7,Improved Stability (Wrist),Grip Strengthening Exercises,Wrist Extensor Stretches,Wrist Stretches,3,10,4,11,3,12,5
+5576,48,Female,Hip Arthritis,4,Improved Joint Mobility (Hip),"Water Exercises (walking, aerobics)",Range of Motion Exercises (hip),Glute Bridges,4,8,4,10,3,9,3
+2357,22,Female,Plantar Fasciitis,6,Improved Flexibility (Plantar Fascia),Short Foot Exercises,Calf Stretches,Plantar Fascia Massage,3,11,4,10,2,10,4
+2270,46,Female,Hip Bursitis,6,Reduced Pain (Hip),Glute Bridges,Side Plank,Clamshells,4,12,1,12,3,11,9
+5515,26,Female,ACL Tear,8,Increased Strength (Knee),Ankle Circles,Walking Squats (modified),"Lunges (forward/reverse, bodyweight)",4,10,1,8,2,9,8
+2879,22,Male,Kyphosis,8,Improved Posture,Strengthening Exercises (Back and Shoulders),Thoracic Extension Exercises,Stretching Exercises,4,10,2,12,4,10,9
+5890,58,Female,Rotator Cuff Tear,3,Improved ROM (Shoulder),Internal Rotations (isometric),Pendulum Exercises,External Rotations (light weight),4,10,1,9,3,11,3
+7900,38,Male,Tennis Elbow,2,Reduced Pain (Elbow),Wrist Extensor Stretches,Grip Strengthening Exercises,Eccentric Wrist Extensions,4,10,4,12,2,8,8
+5259,29,Male,Hip Arthritis,7,Improved Joint Mobility (Hip),Range of Motion Exercises (hip),"Water Exercises (walking, aerobics)",Glute Bridges,3,10,3,12,2,11,7
+5458,40,Male,Meniscus Tear,9,Improved ROM (Knee),Side Plank,Calf Raises (seated),Walking Squats (modified),2,11,3,9,3,11,10
+3250,22,Male,Ankle Strain,7,Improved Flexibility (Ankle),Ankle Circles (both directions),Plantar Fascia Massage,Balance Exercises (single leg stance),3,12,3,8,4,12,4
+4163,29,Male,Ankle Sprain,1,Improved ROM (Ankle),Balance Exercises (single leg stance),Ankle Circles (both directions),Calf Raises (seated),3,8,3,10,4,12,7
+9277,32,Male,Patellar Tendinitis,7,Reduced Pain (Knee),Calf Raises (seated),Hamstring Curls (light weight),Ankle Circles,4,12,3,8,4,10,5
+1655,54,Male,Patellar Tendinitis,3,Increased Flexibility (Knee),Wall Sits,Calf Raises (seated),Quad Extensions (isometric),4,9,1,12,4,12,5
+1722,54,Female,Ankle Sprain,9,Improved ROM (Ankle),Calf Raises (seated),Balance Exercises (single leg stance),Ankle Circles (both directions),2,11,4,8,2,9,9
+2283,59,Male,Ankle Strain,7,Reduced Pain (Ankle),Calf Raises (seated),Plantar Fascia Massage,Ankle Circles (both directions),3,9,1,12,3,12,3
+7220,49,Female,Rotator Cuff Tear,2,Improved ROM (Shoulder),Pendulum Exercises,Internal Rotations (isometric),Scapular Retractions,2,11,3,10,2,11,10
+4391,64,Female,Kyphosis,5,Improved Posture,Posture Correction Exercises,Stretching Exercises,Thoracic Extension Exercises,3,8,1,9,4,9,9
+9722,59,Female,Ankle Strain,7,Improved Flexibility (Ankle),Plantar Fascia Massage,Calf Raises (seated),Balance Exercises (single leg stance),3,9,1,10,3,8,6
+5780,35,Female,Golfer's Elbow,10,Improved Strength (Forearm),Eccentric Wrist Flexions,Wrist Flexor Stretches,Grip Strengthening Exercises,2,12,1,10,4,12,7
+2678,48,Female,Lordosis,10,Improved Posture,Core Strengthening Exercises,Stretching Exercises,Strengthening Exercises (Abs and Lower Back),3,12,2,9,2,10,7
+1867,60,Female,Frozen Shoulder,0,Improved Flexibility (Shoulder),Heat Therapy,Passive Range of Motion Exercises (shoulder),Doorway Shoulder Stretches,3,11,4,8,2,10,5
+3409,46,Male,Patellar Tendinitis,4,Reduced Pain (Knee),Quad Extensions (isometric),Calf Raises (seated),Hamstring Curls (light weight),3,10,1,10,4,11,4
+4688,45,Male,Scoliosis,0,Improved Posture,Core Strengthening Exercises,Stretching Exercises,Pilates,2,9,4,10,4,10,4
+4645,38,Male,Rotator Cuff Tear,9,Improved ROM (Shoulder),Internal Rotations (isometric),Pendulum Exercises,Scapular Retractions,3,9,2,12,3,11,8
+3053,31,Male,Shoulder Bursitis,10,Improved Flexibility (Shoulder),Posture Exercises,Plank (high),Pendulum Exercises,4,9,1,8,3,9,8
+7453,46,Male,Plantar Fasciitis,6,Reduced Pain (Plantar Fascia),Short Foot Exercises,Towel Toe Curls,Plantar Fascia Massage,4,10,3,8,4,8,10
+8583,37,Male,Tennis Elbow,5,Reduced Pain (Elbow),Eccentric Wrist Extensions,Wrist Extensor Stretches,Grip Strengthening Exercises,3,12,2,12,2,10,10
+3693,41,Male,Plantar Fasciitis,4,Improved Flexibility (Plantar Fascia),Short Foot Exercises,Plantar Fascia Massage,Calf Stretches,2,9,3,12,2,9,8
+8524,30,Female,Golfer's Elbow,7,Reduced Pain (Elbow),Eccentric Wrist Flexions,Grip Strengthening Exercises,Wrist Flexor Stretches,2,11,4,11,4,10,8
+3457,51,Female,Scoliosis,1,Improved Posture,Core Strengthening Exercises,Stretching Exercises,Back Extension Exercises,3,9,4,8,2,11,6
+7091,26,Male,Ankle Sprain,2,Improved ROM (Ankle),Balance Exercises (single leg stance),Towel Toe Curls,Calf Raises (seated),4,12,2,10,3,8,4
+4935,43,Female,Frozen Shoulder,1,Improved ROM (Shoulder),Passive Range of Motion Exercises (shoulder),Heat Therapy,Doorway Shoulder Stretches,3,9,2,8,4,12,6
+3718,50,Male,Shoulder Bursitis,8,Improved Flexibility (Shoulder),Scapular Retractions,Pendulum Exercises,Posture Exercises,3,9,1,10,2,12,8
+1098,35,Male,Osgood-Schlatter,10,Reduced Inflammation (Knee),Calf Raises (seated),Bird Dog,Straight Leg Raises,2,12,4,10,4,10,7
+9425,52,Female,Osgood-Schlatter,8,Reduced Inflammation (Knee),Calf Raises (seated),Ankle Circles,Hamstring Curls (light weight),2,11,1,12,3,11,5
+3470,65,Female,Ankle Strain,0,Improved Flexibility (Ankle),Balance Exercises (single leg stance),Ankle Circles (both directions),Calf Raises (seated),2,10,3,11,3,10,8
+4848,27,Male,Patellar Tendinitis,1,Increased Flexibility (Knee),Wall Sits,Calf Raises (seated),Plank (high),3,9,3,11,3,8,7
+3028,22,Male,Ankle Sprain,0,Improved ROM (Ankle),Calf Raises (seated),Balance Exercises (single leg stance),Ankle Circles (both directions),3,8,2,11,4,9,9
+8285,29,Male,Plantar Fasciitis,0,Reduced Pain (Plantar Fascia),Plantar Fascia Massage,Calf Stretches,Short Foot Exercises,3,9,2,9,3,12,4
+8390,60,Male,Ankle Strain,3,Reduced Pain (Ankle),Plantar Fascia Massage,Balance Exercises (single leg stance),Calf Raises (seated),2,8,2,11,2,9,3
+3552,26,Female,Achilles Tendinitis,8,Increased Strength (Calf),Ankle Circles (both directions),Calf Raises (seated),Wall Sits,3,8,1,12,2,10,5
+3549,20,Female,Shoulder Bursitis,10,Reduced Pain (Shoulder),Scapular Retractions,Posture Exercises,Plank (high),2,8,2,9,2,8,9
+8274,61,Male,Scoliosis,1,Increased Core Strength,Back Extension Exercises,Pilates,Stretching Exercises,2,9,4,11,4,9,10
+5096,36,Female,Hip Bursitis,2,Reduced Pain (Hip),Clamshells,Side Plank,Glute Bridges,2,10,3,8,3,11,7
+9728,34,Male,Shoulder Bursitis,3,Reduced Pain (Shoulder),Plank (high),Posture Exercises,Scapular Retractions,3,12,1,9,3,10,5
+5281,34,Female,Golfer's Elbow,6,Reduced Pain (Elbow),Wrist Flexor Stretches,Grip Strengthening Exercises,Eccentric Wrist Flexions,4,10,1,8,4,12,10
+6088,42,Male,Plantar Fasciitis,7,Improved Flexibility (Plantar Fascia),Calf Stretches,Plantar Fascia Massage,Towel Toe Curls,2,9,1,10,4,12,8
+7905,63,Male,Scoliosis,9,Increased Core Strength,Pilates,Stretching Exercises,Back Extension Exercises,4,8,2,9,4,10,8
+6603,42,Male,Golfer's Elbow,7,Reduced Pain (Elbow),Grip Strengthening Exercises,Wrist Flexor Stretches,Eccentric Wrist Flexions,3,9,3,12,3,8,8
+5552,52,Male,Wrist Sprain,0,Improved ROM (Wrist),Grip Strengthening Exercises,Wrist Flexor Stretches,Wrist Extensor Stretches,4,11,3,11,2,10,9
+4025,44,Male,Hip Labral Tear,4,Improved ROM (Hip),Glute Bridges,Internal Rotations (light weight),External Rotations,3,9,3,12,2,12,4
+5021,26,Female,Ankle Sprain,6,Improved ROM (Ankle),Towel Toe Curls,Balance Exercises (single leg stance),Ankle Circles (both directions),2,12,4,10,3,8,3
+4377,36,Female,Meniscus Tear,9,Reduced Pain (Knee),Short Arc Quad Sets,Walking Squats (modified),Hamstring Curls (light weight),3,10,3,8,4,10,4
+5563,42,Male,Plantar Fasciitis,1,Improved Flexibility (Plantar Fascia),Towel Toe Curls,Plantar Fascia Massage,Calf Stretches,3,12,4,11,2,11,5
+3956,25,Male,Patellar Tendinitis,2,Reduced Pain (Knee),Ankle Circles,Hamstring Curls (light weight),Calf Raises (seated),4,10,4,10,2,8,7
+9282,48,Female,Meniscus Tear,7,Improved ROM (Knee),Hamstring Curls (light weight),Ankle Circles,Walking Squats (modified),4,8,3,10,2,9,8
+5464,56,Male,Ankle Strain,9,Reduced Pain (Ankle),Balance Exercises (single leg stance),Ankle Circles (both directions),Plantar Fascia Massage,4,8,2,12,4,12,7
+3530,41,Female,Osgood-Schlatter,9,Reduced Inflammation (Knee),Straight Leg Raises,Hamstring Curls (light weight),Bird Dog,2,9,3,9,3,8,3
+6849,42,Female,Meniscus Tear,7,Reduced Pain (Knee),Short Arc Quad Sets,Calf Raises (seated),Side Plank,3,11,4,11,4,10,7
+5485,65,Male,Wrist Carpal Tunnel,8,Reduced Pain (Wrist),Wrist Flexor Stretches,Grip Strengthening Exercises,Wrist Stretches,2,11,3,12,3,9,6
+9248,43,Female,Golfer's Elbow,3,Reduced Pain (Elbow),Wrist Flexor Stretches,Eccentric Wrist Flexions,Grip Strengthening Exercises,2,8,4,8,3,8,10
+9953,61,Male,Rotator Cuff Tear,6,Increased Strength (Shoulder),Pendulum Exercises,Scapular Retractions,Internal Rotations (isometric),2,8,4,11,4,8,5
+1154,25,Female,Ankle Strain,3,Improved Flexibility (Ankle),Plantar Fascia Massage,Calf Raises (seated),Ankle Circles (both directions),4,11,1,10,4,10,8
+7029,24,Female,Shoulder Bursitis,0,Improved Flexibility (Shoulder),Scapular Retractions,Plank (high),Posture Exercises,4,10,4,8,4,9,10
+1228,65,Female,Wrist Sprain,10,Improved ROM (Wrist),Wrist Stretches,Wrist Extensor Stretches,Wrist Flexor Stretches,2,8,3,11,3,10,9
+6063,56,Male,Wrist Carpal Tunnel,7,Improved Flexibility (Wrist),Wrist Flexor Stretches,Wrist Extensor Stretches,Wrist Stretches,2,11,4,12,2,11,6
+1495,26,Male,Lordosis,2,Improved Posture,Stretching Exercises,Pelvic Tilt Exercises,Core Strengthening Exercises,4,9,3,9,2,11,3
+4958,52,Female,Wrist Sprain,0,Improved Stability (Wrist),Wrist Extensor Stretches,Wrist Stretches,Wrist Flexor Stretches,4,9,2,8,4,12,8
+9005,57,Female,Osgood-Schlatter,9,Reduced Inflammation (Knee),Straight Leg Raises,Hamstring Curls (light weight),Bird Dog,2,12,1,8,4,9,10
+4816,37,Female,Scoliosis,8,Increased Core Strength,Core Strengthening Exercises,Stretching Exercises,Back Extension Exercises,2,12,2,10,4,8,7
+8255,57,Male,Wrist Strain,2,Improved Flexibility (Wrist),Wrist Extensor Stretches,Wrist Stretches,Grip Strengthening Exercises,3,12,1,8,4,10,6
+3815,38,Female,Osgood-Schlatter,6,Reduced Pain (Knee),Bird Dog,Straight Leg Raises,Calf Raises (seated),4,10,2,9,4,8,9
+1987,35,Female,Tennis Elbow,4,Reduced Pain (Elbow),Grip Strengthening Exercises,Eccentric Wrist Extensions,Wrist Extensor Stretches,4,8,2,10,3,8,6
+8884,21,Female,Tennis Elbow,0,Reduced Pain (Elbow),Wrist Extensor Stretches,Grip Strengthening Exercises,Eccentric Wrist Extensions,4,11,4,8,2,12,4
+5797,23,Female,ACL Tear,2,Improved ROM (Knee),"Lunges (forward/reverse, bodyweight)",Calf Raises (seated),Plank (high),4,9,1,10,3,12,9
+5448,56,Male,Labrum Tear,3,Improved Stability (Shoulder),Internal Rotations (isometric),Plank (high),Pendulum Exercises,2,8,3,12,2,9,7
+6252,47,Male,Lordosis,0,Strengthening Abdominal Muscles,Pelvic Tilt Exercises,Core Strengthening Exercises,Strengthening Exercises (Abs and Lower Back),2,8,1,12,3,12,4
+4362,55,Male,Achilles Tendinitis,9,Increased Strength (Calf),Ankle Circles (both directions),Eccentric Heel Drops,Wall Sits,3,12,3,9,4,11,8
+7892,41,Female,Hip Arthritis,5,Improved Joint Mobility (Hip),Range of Motion Exercises (hip),"Water Exercises (walking, aerobics)",Glute Bridges,2,11,1,9,3,9,3
+1058,21,Female,Hip Labral Tear,4,Increased Strength (Hip),Plank (high),Internal Rotations (light weight),Glute Bridges,2,12,1,12,3,9,9
+3948,48,Female,Plantar Fasciitis,5,Improved Flexibility (Plantar Fascia),Calf Stretches,Short Foot Exercises,Plantar Fascia Massage,2,12,2,8,3,8,7
+3899,25,Male,Hip Labral Tear,10,Increased Strength (Hip),Plank (high),Internal Rotations (light weight),Glute Bridges,2,8,3,11,3,9,3
+6468,54,Male,Osgood-Schlatter,6,Reduced Pain (Knee),Straight Leg Raises,Calf Raises (seated),Ankle Circles,4,12,1,11,2,11,7
+2953,22,Male,Rotator Cuff Tear,9,Improved ROM (Shoulder),Internal Rotations (isometric),Scapular Retractions,Pendulum Exercises,4,11,4,8,3,8,10
+6426,52,Female,Tennis Elbow,6,Reduced Pain (Elbow),Wrist Extensor Stretches,Eccentric Wrist Extensions,Grip Strengthening Exercises,3,12,3,12,3,10,6
+9198,39,Female,Achilles Tendinitis,6,Increased Strength (Calf),Ankle Circles (both directions),Eccentric Heel Drops,Wall Sits,2,12,1,8,3,10,8
+7297,27,Male,Wrist Sprain,4,Improved ROM (Wrist),Wrist Extensor Stretches,Wrist Flexor Stretches,Grip Strengthening Exercises,2,9,2,11,3,9,9
+1665,24,Male,Hip Labral Tear,5,Increased Strength (Hip),External Rotations,Internal Rotations (light weight),Glute Bridges,2,10,3,8,4,11,6
+6322,61,Male,Ankle Sprain,3,Improved ROM (Ankle),Balance Exercises (single leg stance),Calf Raises (seated),Towel Toe Curls,3,12,4,12,4,10,3
+4521,38,Female,ACL Tear,2,Increased Strength (Knee),Ankle Circles,Plank (high),Calf Raises (seated),2,10,4,8,3,9,4
+1141,21,Male,Ankle Strain,4,Reduced Pain (Ankle),Balance Exercises (single leg stance),Ankle Circles (both directions),Plantar Fascia Massage,3,11,1,11,3,10,4
+9984,64,Male,Scoliosis,5,Improved Posture,Core Strengthening Exercises,Stretching Exercises,Pilates,4,12,1,9,2,10,3
+9626,64,Male,Ankle Sprain,0,Improved Stability (Ankle),Towel Toe Curls,Calf Raises (seated),Ankle Circles (both directions),2,9,4,8,2,10,7
+8429,34,Female,Shoulder Bursitis,5,Reduced Pain (Shoulder),Plank (high),Scapular Retractions,Pendulum Exercises,4,11,4,12,2,11,9
+4415,49,Male,Osgood-Schlatter,1,Reduced Inflammation (Knee),Ankle Circles,Calf Raises (seated),Straight Leg Raises,4,9,1,10,4,9,4
+3169,21,Male,Hip Labral Tear,4,Increased Strength (Hip),Glute Bridges,Internal Rotations (light weight),External Rotations,3,9,4,11,2,11,6
+4512,20,Female,Patellar Tendinitis,9,Increased Flexibility (Knee),Quad Extensions (isometric),Calf Raises (seated),Hamstring Curls (light weight),4,9,3,9,4,8,10
+7991,49,Male,Scoliosis,9,Improved Posture,Core Strengthening Exercises,Pilates,Back Extension Exercises,4,9,3,11,4,11,10
+3483,58,Male,Osgood-Schlatter,8,Reduced Inflammation (Knee),Calf Raises (seated),Bird Dog,Hamstring Curls (light weight),2,11,4,9,4,9,5
+2886,61,Female,Plantar Fasciitis,0,Reduced Pain (Plantar Fascia),Towel Toe Curls,Plantar Fascia Massage,Short Foot Exercises,3,12,1,10,4,10,3
+8405,60,Female,Wrist Carpal Tunnel,0,Improved Flexibility (Wrist),Wrist Flexor Stretches,Grip Strengthening Exercises,Wrist Stretches,2,12,1,12,4,11,8
+4469,28,Female,Hip Bursitis,6,Improved Flexibility (Hip),Glute Bridges,Clamshells,Hip Flexor Stretches,3,9,1,11,4,10,7
+8048,30,Male,Scoliosis,8,Improved Posture,Core Strengthening Exercises,Pilates,Back Extension Exercises,4,8,1,9,2,11,6
+1175,59,Female,Hip Arthritis,9,Reduced Pain (Hip),"Water Exercises (walking, aerobics)",Range of Motion Exercises (hip),Glute Bridges,2,8,3,10,4,10,8
+6722,54,Male,Kyphosis,1,Improved Posture,Strengthening Exercises (Back and Shoulders),Stretching Exercises,Posture Correction Exercises,3,12,2,12,4,11,10
+8864,55,Female,Shoulder Bursitis,0,Improved Flexibility (Shoulder),Plank (high),Posture Exercises,Scapular Retractions,2,10,4,9,2,9,4
+2250,31,Female,Wrist Strain,2,Reduced Pain (Wrist),Wrist Flexor Stretches,Wrist Stretches,Wrist Extensor Stretches,4,11,4,10,3,8,7
+7592,60,Female,Achilles Tendinitis,10,Reduced Pain (Achilles Tendon),Eccentric Heel Drops,Calf Raises (seated),Ankle Circles (both directions),4,9,4,8,4,9,7
+5555,41,Female,Hip Labral Tear,9,Increased Strength (Hip),External Rotations,Plank (high),Glute Bridges,3,8,2,12,4,11,3
+4027,50,Female,Rotator Cuff Tear,6,Increased Strength (Shoulder),Pendulum Exercises,External Rotations (light weight),Internal Rotations (isometric),4,12,2,9,4,12,4
+1534,59,Male,Ankle Strain,6,Improved Flexibility (Ankle),Calf Raises (seated),Ankle Circles (both directions),Balance Exercises (single leg stance),4,12,2,8,4,9,5
+8755,42,Male,Meniscus Tear,3,Improved ROM (Knee),Hamstring Curls (light weight),Ankle Circles,Short Arc Quad Sets,3,11,2,11,3,11,3
+1768,41,Male,Tennis Elbow,3,Improved Strength (Forearm),Grip Strengthening Exercises,Eccentric Wrist Extensions,Wrist Extensor Stretches,3,11,4,9,2,8,9
+3967,57,Male,Scoliosis,1,Improved Posture,Back Extension Exercises,Core Strengthening Exercises,Pilates,4,11,3,12,4,11,9
+6641,49,Female,Wrist Strain,10,Improved Flexibility (Wrist),Grip Strengthening Exercises,Wrist Flexor Stretches,Wrist Extensor Stretches,2,11,3,12,3,12,9
+7923,34,Male,Osgood-Schlatter,10,Reduced Inflammation (Knee),Ankle Circles,Hamstring Curls (light weight),Bird Dog,2,8,4,9,2,11,9
+8021,36,Male,Kyphosis,10,Strengthening Posterior Chain Muscles,Stretching Exercises,Strengthening Exercises (Back and Shoulders),Thoracic Extension Exercises,3,12,1,10,4,10,7
+8130,43,Male,Hip Labral Tear,7,Improved ROM (Hip),Plank (high),Internal Rotations (light weight),Glute Bridges,4,10,1,10,3,12,6
+3573,48,Male,Wrist Sprain,0,Improved Stability (Wrist),Wrist Extensor Stretches,Grip Strengthening Exercises,Wrist Stretches,3,10,2,9,3,12,6
+1040,26,Male,Tennis Elbow,0,Improved Strength (Forearm),Grip Strengthening Exercises,Eccentric Wrist Extensions,Wrist Extensor Stretches,2,8,3,11,4,11,4
+2163,25,Male,Labrum Tear,0,Improved Stability (Shoulder),Pendulum Exercises,Plank (high),External Rotations (light weight),3,11,1,11,3,8,6
+5154,40,Male,Hip Bursitis,3,Reduced Pain (Hip),Clamshells,Hip Flexor Stretches,Side Plank,2,10,3,8,3,10,4
+8628,27,Female,Osgood-Schlatter,6,Reduced Pain (Knee),Ankle Circles,Straight Leg Raises,Calf Raises (seated),2,11,4,12,3,12,8
+8081,37,Female,Kyphosis,8,Strengthening Posterior Chain Muscles,Stretching Exercises,Strengthening Exercises (Back and Shoulders),Posture Correction Exercises,3,12,3,9,2,12,7
+4153,40,Male,Achilles Tendinitis,10,Increased Strength (Calf),Calf Raises (seated),Eccentric Heel Drops,Ankle Circles (both directions),4,11,2,8,4,8,10
+7368,23,Female,Meniscus Tear,3,Improved ROM (Knee),Walking Squats (modified),Hamstring Curls (light weight),Ankle Circles,3,12,3,12,3,10,10
+3203,51,Male,Ankle Strain,5,Improved Flexibility (Ankle),Plantar Fascia Massage,Calf Raises (seated),Ankle Circles (both directions),3,12,4,11,2,11,3
+3797,63,Male,Osgood-Schlatter,1,Reduced Inflammation (Knee),Straight Leg Raises,Hamstring Curls (light weight),Bird Dog,3,8,1,11,2,8,6
+9949,56,Female,ACL Tear,6,Improved ROM (Knee),Hamstring Curls (light weight),Walking Squats (modified),Ankle Circles,3,9,2,8,2,8,3
+9306,49,Female,Rotator Cuff Tear,0,Increased Strength (Shoulder),Pendulum Exercises,Scapular Retractions,Internal Rotations (isometric),4,10,3,8,2,9,3
+2730,58,Female,Tennis Elbow,7,Reduced Pain (Elbow),Eccentric Wrist Extensions,Wrist Extensor Stretches,Grip Strengthening Exercises,3,10,2,10,4,12,9
+2067,26,Male,Ankle Strain,6,Improved Flexibility (Ankle),Plantar Fascia Massage,Ankle Circles (both directions),Balance Exercises (single leg stance),2,10,3,11,4,9,3
+4559,21,Male,Wrist Carpal Tunnel,5,Reduced Pain (Wrist),Grip Strengthening Exercises,Wrist Stretches,Wrist Flexor Stretches,2,12,1,10,2,8,9
+8337,25,Male,Shoulder Bursitis,5,Improved Flexibility (Shoulder),Scapular Retractions,Plank (high),Pendulum Exercises,4,11,1,10,2,9,9
+3970,55,Female,Ankle Sprain,9,Improved ROM (Ankle),Balance Exercises (single leg stance),Calf Raises (seated),Towel Toe Curls,3,11,2,8,2,11,10
+8613,22,Male,Wrist Carpal Tunnel,10,Improved Flexibility (Wrist),Wrist Flexor Stretches,Wrist Stretches,Grip Strengthening Exercises,2,8,1,10,4,12,10
+7552,49,Male,Ankle Sprain,4,Improved Stability (Ankle),Ankle Circles (both directions),Balance Exercises (single leg stance),Towel Toe Curls,4,12,4,11,2,10,8
+4513,42,Female,Wrist Strain,3,Improved Flexibility (Wrist),Wrist Extensor Stretches,Wrist Stretches,Grip Strengthening Exercises,3,8,1,12,3,12,5
+1781,58,Male,Achilles Tendinitis,1,Reduced Pain (Achilles Tendon),Ankle Circles (both directions),Wall Sits,Eccentric Heel Drops,4,9,2,9,4,12,6
+3591,21,Female,Ankle Strain,6,Improved Flexibility (Ankle),Plantar Fascia Massage,Balance Exercises (single leg stance),Calf Raises (seated),3,11,2,12,3,11,8
+3417,33,Male,Tennis Elbow,8,Reduced Pain (Elbow),Wrist Extensor Stretches,Grip Strengthening Exercises,Eccentric Wrist Extensions,2,8,4,9,3,8,10
+8127,23,Male,Plantar Fasciitis,4,Reduced Pain (Plantar Fascia),Towel Toe Curls,Calf Stretches,Short Foot Exercises,3,9,1,10,4,9,6
+6907,59,Female,Rotator Cuff Tear,2,Improved ROM (Shoulder),External Rotations (light weight),Internal Rotations (isometric),Pendulum Exercises,3,12,4,8,3,9,10
+7636,33,Female,Ankle Sprain,7,Improved ROM (Ankle),Towel Toe Curls,Calf Raises (seated),Ankle Circles (both directions),2,11,3,10,3,11,4
+6574,61,Male,ACL Tear,3,Improved ROM (Knee),Ankle Circles,Plank (high),Walking Squats (modified),4,12,1,10,3,12,5
+7707,23,Male,Golfer's Elbow,9,Reduced Pain (Elbow),Wrist Flexor Stretches,Grip Strengthening Exercises,Eccentric Wrist Flexions,3,10,2,8,3,9,9
+5648,58,Male,Kyphosis,3,Improved Posture,Posture Correction Exercises,Thoracic Extension Exercises,Strengthening Exercises (Back and Shoulders),3,11,4,8,4,11,9
+9815,60,Female,Hip Labral Tear,2,Increased Strength (Hip),External Rotations,Internal Rotations (light weight),Plank (high),4,9,2,9,2,12,8
+2087,54,Female,Wrist Strain,8,Improved Flexibility (Wrist),Wrist Flexor Stretches,Wrist Stretches,Wrist Extensor Stretches,3,9,3,9,4,11,10
+2226,33,Female,Meniscus Tear,0,Reduced Pain (Knee),Calf Raises (seated),Walking Squats (modified),Short Arc Quad Sets,4,11,1,12,2,11,10
+8593,29,Female,Hip Labral Tear,1,Increased Strength (Hip),Glute Bridges,External Rotations,Plank (high),2,9,1,9,3,8,7
+3946,62,Male,Meniscus Tear,0,Improved ROM (Knee),Ankle Circles,Walking Squats (modified),Side Plank,2,8,2,11,2,10,6
+3735,43,Male,Kyphosis,1,Strengthening Posterior Chain Muscles,Thoracic Extension Exercises,Posture Correction Exercises,Stretching Exercises,3,8,2,10,3,11,4
+1064,61,Male,Ankle Sprain,3,Improved ROM (Ankle),Towel Toe Curls,Calf Raises (seated),Balance Exercises (single leg stance),2,9,2,9,3,10,9
+6255,45,Female,Plantar Fasciitis,0,Reduced Pain (Plantar Fascia),Plantar Fascia Massage,Calf Stretches,Short Foot Exercises,3,10,4,12,4,11,10
+8128,24,Male,Labrum Tear,0,Improved ROM (Shoulder),Pendulum Exercises,Plank (high),External Rotations (light weight),2,9,2,11,3,12,7
+3299,65,Male,Achilles Tendinitis,1,Increased Strength (Calf),Eccentric Heel Drops,Ankle Circles (both directions),Wall Sits,3,12,2,8,4,10,3
+3559,28,Male,Wrist Sprain,7,Improved Stability (Wrist),Wrist Extensor Stretches,Wrist Stretches,Grip Strengthening Exercises,4,10,3,12,3,12,3
+1901,20,Male,Hip Bursitis,4,Improved Flexibility (Hip),Side Plank,Clamshells,Hip Flexor Stretches,2,10,4,10,2,8,10
+2172,34,Female,Hip Arthritis,6,Reduced Pain (Hip),Glute Bridges,Range of Motion Exercises (hip),"Water Exercises (walking, aerobics)",3,12,4,12,3,9,10
+6264,40,Male,ACL Tear,9,Improved ROM (Knee),Plank (high),Hamstring Curls (light weight),Calf Raises (seated),4,12,2,10,2,12,3
+8342,25,Male,Meniscus Tear,10,Reduced Pain (Knee),Walking Squats (modified),Ankle Circles,Calf Raises (seated),3,8,1,9,4,9,3
+8865,59,Male,Hip Labral Tear,0,Increased Strength (Hip),External Rotations,Plank (high),Glute Bridges,3,12,4,9,3,10,7
+4712,48,Male,Hip Labral Tear,3,Improved ROM (Hip),Glute Bridges,Plank (high),Internal Rotations (light weight),2,12,1,8,2,8,3
+9818,56,Male,Hip Bursitis,4,Improved Flexibility (Hip),Hip Flexor Stretches,Clamshells,Glute Bridges,3,8,2,10,3,11,7
+6763,26,Female,Labrum Tear,0,Improved Stability (Shoulder),Internal Rotations (isometric),Pendulum Exercises,Plank (high),3,11,2,11,3,9,6
+1820,44,Male,Rotator Cuff Tear,1,Increased Strength (Shoulder),Internal Rotations (isometric),Scapular Retractions,External Rotations (light weight),3,10,2,8,4,11,9
+7663,26,Female,Meniscus Tear,5,Reduced Pain (Knee),Walking Squats (modified),Hamstring Curls (light weight),Calf Raises (seated),3,9,4,12,4,12,6
+5223,53,Male,Scoliosis,5,Improved Posture,Core Strengthening Exercises,Stretching Exercises,Pilates,2,9,2,10,2,8,8
+9714,46,Male,Ankle Strain,0,Reduced Pain (Ankle),Plantar Fascia Massage,Calf Raises (seated),Balance Exercises (single leg stance),2,10,1,10,3,10,3
+9719,62,Female,Ankle Strain,1,Reduced Pain (Ankle),Plantar Fascia Massage,Balance Exercises (single leg stance),Calf Raises (seated),2,8,1,12,2,9,4
+1239,37,Female,Ankle Sprain,4,Improved Stability (Ankle),Balance Exercises (single leg stance),Towel Toe Curls,Calf Raises (seated),3,8,1,11,3,10,4
+8131,38,Female,Tennis Elbow,5,Reduced Pain (Elbow),Wrist Extensor Stretches,Eccentric Wrist Extensions,Grip Strengthening Exercises,3,11,4,12,3,8,3
+2321,56,Female,Patellar Tendinitis,1,Reduced Pain (Knee),Quad Extensions (isometric),Hamstring Curls (light weight),Wall Sits,2,9,1,8,4,9,8
+2561,23,Female,Tennis Elbow,2,Improved Strength (Forearm),Wrist Extensor Stretches,Grip Strengthening Exercises,Eccentric Wrist Extensions,2,8,1,9,3,10,10
+4823,24,Male,Kyphosis,6,Improved Posture,Strengthening Exercises (Back and Shoulders),Posture Correction Exercises,Stretching Exercises,3,11,3,10,4,8,7
+9364,45,Male,Ankle Strain,1,Improved Flexibility (Ankle),Plantar Fascia Massage,Ankle Circles (both directions),Calf Raises (seated),3,12,4,9,2,9,5
+7637,27,Male,ACL Tear,6,Increased Strength (Knee),Plank (high),Walking Squats (modified),Hamstring Curls (light weight),2,9,3,8,4,9,10
+1763,26,Female,Frozen Shoulder,7,Improved ROM (Shoulder),Heat Therapy,Doorway Shoulder Stretches,Passive Range of Motion Exercises (shoulder),3,10,1,11,4,9,3
+3645,22,Female,Hip Bursitis,5,Reduced Pain (Hip),Side Plank,Hip Flexor Stretches,Clamshells,2,10,4,12,2,9,8
+9887,32,Male,Golfer's Elbow,3,Improved Strength (Forearm),Wrist Flexor Stretches,Eccentric Wrist Flexions,Grip Strengthening Exercises,2,8,3,9,3,9,3
+4039,22,Male,Plantar Fasciitis,0,Reduced Pain (Plantar Fascia),Towel Toe Curls,Short Foot Exercises,Plantar Fascia Massage,2,10,2,11,4,9,5
+7275,54,Male,Hip Labral Tear,1,Increased Strength (Hip),External Rotations,Plank (high),Internal Rotations (light weight),2,9,2,9,2,10,8
+4049,20,Male,Tennis Elbow,8,Improved Strength (Forearm),Grip Strengthening Exercises,Wrist Extensor Stretches,Eccentric Wrist Extensions,2,10,1,12,2,12,6
+2910,43,Female,Golfer's Elbow,9,Improved Strength (Forearm),Eccentric Wrist Flexions,Wrist Flexor Stretches,Grip Strengthening Exercises,3,9,4,8,3,11,9
+1553,39,Female,Wrist Carpal Tunnel,6,Reduced Pain (Wrist),Grip Strengthening Exercises,Wrist Extensor Stretches,Wrist Flexor Stretches,2,10,3,11,2,10,8
+9552,32,Female,Osgood-Schlatter,9,Reduced Inflammation (Knee),Straight Leg Raises,Ankle Circles,Hamstring Curls (light weight),3,8,2,10,4,11,9
+9052,30,Female,Shoulder Bursitis,4,Improved Flexibility (Shoulder),Pendulum Exercises,Posture Exercises,Plank (high),4,10,3,9,3,8,5
+4096,51,Male,Osgood-Schlatter,3,Reduced Inflammation (Knee),Ankle Circles,Bird Dog,Hamstring Curls (light weight),4,10,3,9,2,8,6
+8943,42,Female,Tennis Elbow,9,Reduced Pain (Elbow),Wrist Extensor Stretches,Grip Strengthening Exercises,Eccentric Wrist Extensions,2,11,1,10,4,9,9
+3744,21,Female,Kyphosis,8,Strengthening Posterior Chain Muscles,Strengthening Exercises (Back and Shoulders),Stretching Exercises,Thoracic Extension Exercises,3,10,3,10,4,8,5
+2924,41,Male,Hip Labral Tear,4,Improved ROM (Hip),Internal Rotations (light weight),External Rotations,Glute Bridges,2,12,4,12,2,8,7
+9937,27,Female,Tennis Elbow,8,Reduced Pain (Elbow),Eccentric Wrist Extensions,Grip Strengthening Exercises,Wrist Extensor Stretches,2,8,1,10,3,11,9
+3207,46,Female,Golfer's Elbow,4,Improved Strength (Forearm),Eccentric Wrist Flexions,Wrist Flexor Stretches,Grip Strengthening Exercises,4,8,4,12,2,11,10
+8442,44,Male,Wrist Sprain,1,Improved ROM (Wrist),Wrist Extensor Stretches,Wrist Stretches,Grip Strengthening Exercises,4,11,3,10,2,10,6
+6024,20,Female,Ankle Sprain,4,Improved ROM (Ankle),Towel Toe Curls,Calf Raises (seated),Ankle Circles (both directions),2,10,1,12,3,10,10
+2626,44,Male,Tennis Elbow,8,Improved Strength (Forearm),Wrist Extensor Stretches,Grip Strengthening Exercises,Eccentric Wrist Extensions,3,11,4,12,4,8,9
+1851,27,Female,ACL Tear,2,Improved ROM (Knee),Plank (high),"Lunges (forward/reverse, bodyweight)",Hamstring Curls (light weight),4,10,3,12,2,12,10
+9182,39,Male,Shoulder Bursitis,9,Improved Flexibility (Shoulder),Posture Exercises,Scapular Retractions,Pendulum Exercises,3,12,2,12,2,12,8
+1883,62,Male,Tennis Elbow,3,Improved Strength (Forearm),Grip Strengthening Exercises,Eccentric Wrist Extensions,Wrist Extensor Stretches,2,12,3,10,4,10,6
+3081,49,Male,Kyphosis,0,Improved Posture,Posture Correction Exercises,Strengthening Exercises (Back and Shoulders),Thoracic Extension Exercises,3,10,1,10,4,10,7
+9332,23,Male,Scoliosis,6,Increased Core Strength,Back Extension Exercises,Core Strengthening Exercises,Stretching Exercises,4,11,2,12,4,10,3
+3793,39,Female,Ankle Sprain,3,Improved Stability (Ankle),Towel Toe Curls,Balance Exercises (single leg stance),Calf Raises (seated),3,9,3,9,2,10,10
+1477,64,Female,Frozen Shoulder,10,Improved ROM (Shoulder),Passive Range of Motion Exercises (shoulder),Doorway Shoulder Stretches,Heat Therapy,4,9,2,11,4,9,3
+9018,37,Female,Hip Bursitis,7,Reduced Pain (Hip),Clamshells,Glute Bridges,Side Plank,2,12,3,10,3,11,9
+2834,53,Female,Hip Arthritis,1,Improved Joint Mobility (Hip),Glute Bridges,Range of Motion Exercises (hip),"Water Exercises (walking, aerobics)",2,12,3,8,4,12,8
+9431,49,Male,Tennis Elbow,5,Reduced Pain (Elbow),Grip Strengthening Exercises,Eccentric Wrist Extensions,Wrist Extensor Stretches,2,10,2,11,4,12,10
+9977,46,Female,Hip Labral Tear,7,Increased Strength (Hip),External Rotations,Plank (high),Glute Bridges,4,11,4,8,4,12,6
+3971,44,Female,Hip Labral Tear,7,Increased Strength (Hip),Plank (high),Internal Rotations (light weight),External Rotations,4,8,3,8,2,8,5
+1819,41,Male,Wrist Carpal Tunnel,8,Reduced Pain (Wrist),Wrist Extensor Stretches,Grip Strengthening Exercises,Wrist Flexor Stretches,3,10,2,12,4,10,6
+8873,50,Male,Wrist Carpal Tunnel,6,Improved Flexibility (Wrist),Wrist Flexor Stretches,Grip Strengthening Exercises,Wrist Stretches,3,10,2,10,3,8,6
+4747,45,Male,Wrist Carpal Tunnel,7,Reduced Pain (Wrist),Wrist Stretches,Wrist Flexor Stretches,Wrist Extensor Stretches,3,10,2,10,3,12,4
+9992,25,Female,Tennis Elbow,2,Improved Strength (Forearm),Eccentric Wrist Extensions,Wrist Extensor Stretches,Grip Strengthening Exercises,3,11,4,11,3,11,3
+8186,22,Female,Wrist Sprain,0,Improved ROM (Wrist),Grip Strengthening Exercises,Wrist Flexor Stretches,Wrist Extensor Stretches,3,10,2,8,2,9,8
+5151,21,Male,Lordosis,4,Strengthening Abdominal Muscles,Stretching Exercises,Strengthening Exercises (Abs and Lower Back),Core Strengthening Exercises,2,10,3,8,4,9,3
+4938,32,Male,Labrum Tear,9,Improved Stability (Shoulder),Plank (high),External Rotations (light weight),Pendulum Exercises,3,9,3,11,3,9,6
+2258,61,Male,Achilles Tendinitis,10,Increased Strength (Calf),Ankle Circles (both directions),Eccentric Heel Drops,Calf Raises (seated),4,10,4,11,2,10,6
+6875,49,Female,Labrum Tear,9,Improved Stability (Shoulder),Plank (high),Internal Rotations (isometric),Pendulum Exercises,4,11,3,11,3,10,10
+2053,32,Male,Shoulder Bursitis,5,Improved Flexibility (Shoulder),Pendulum Exercises,Scapular Retractions,Plank (high),4,12,4,12,2,12,6
+9642,35,Male,Wrist Sprain,6,Improved Stability (Wrist),Wrist Extensor Stretches,Wrist Flexor Stretches,Grip Strengthening Exercises,3,12,3,9,4,9,5
+2629,61,Female,Lordosis,9,Improved Posture,Pelvic Tilt Exercises,Stretching Exercises,Core Strengthening Exercises,2,11,1,8,4,11,4
+5496,50,Female,Hip Labral Tear,2,Improved ROM (Hip),Glute Bridges,External Rotations,Plank (high),3,10,4,11,4,11,4
+9066,53,Female,Golfer's Elbow,6,Reduced Pain (Elbow),Eccentric Wrist Flexions,Grip Strengthening Exercises,Wrist Flexor Stretches,3,8,1,10,3,11,7
+9001,25,Male,Tennis Elbow,10,Reduced Pain (Elbow),Wrist Extensor Stretches,Grip Strengthening Exercises,Eccentric Wrist Extensions,2,9,2,11,4,12,3
+2671,64,Male,Hip Labral Tear,8,Increased Strength (Hip),External Rotations,Plank (high),Internal Rotations (light weight),4,8,2,9,3,12,9
+8335,51,Male,Plantar Fasciitis,9,Reduced Pain (Plantar Fascia),Plantar Fascia Massage,Towel Toe Curls,Short Foot Exercises,2,12,2,9,3,11,7
+3084,28,Male,Wrist Strain,8,Improved Flexibility (Wrist),Grip Strengthening Exercises,Wrist Flexor Stretches,Wrist Extensor Stretches,4,8,3,12,3,8,7
+3982,30,Female,Scoliosis,5,Improved Posture,Pilates,Back Extension Exercises,Core Strengthening Exercises,2,12,3,8,4,12,4
+1485,34,Female,Hip Labral Tear,2,Improved ROM (Hip),Glute Bridges,External Rotations,Plank (high),4,9,3,10,3,9,10
+8726,32,Female,Meniscus Tear,7,Improved ROM (Knee),Ankle Circles,Walking Squats (modified),Hamstring Curls (light weight),3,8,2,12,4,9,3
+1116,44,Male,Ankle Sprain,9,Improved Stability (Ankle),Calf Raises (seated),Balance Exercises (single leg stance),Towel Toe Curls,3,8,4,12,3,11,9
+7123,46,Female,Plantar Fasciitis,6,Reduced Pain (Plantar Fascia),Calf Stretches,Short Foot Exercises,Plantar Fascia Massage,2,9,1,10,3,8,7
+3182,32,Female,Hip Labral Tear,5,Improved ROM (Hip),Glute Bridges,Internal Rotations (light weight),External Rotations,2,10,3,8,4,11,8
+2414,65,Female,Patellar Tendinitis,4,Reduced Pain (Knee),Quad Extensions (isometric),Ankle Circles,Plank (high),3,11,4,9,4,8,7
+1506,32,Male,Tennis Elbow,10,Improved Strength (Forearm),Grip Strengthening Exercises,Eccentric Wrist Extensions,Wrist Extensor Stretches,4,11,1,8,4,9,6
+1984,57,Male,Frozen Shoulder,9,Improved ROM (Shoulder),Doorway Shoulder Stretches,Heat Therapy,Passive Range of Motion Exercises (shoulder),2,9,1,11,2,11,4
+7983,27,Male,Wrist Carpal Tunnel,2,Reduced Pain (Wrist),Wrist Extensor Stretches,Grip Strengthening Exercises,Wrist Flexor Stretches,2,12,2,8,2,11,7
+9620,26,Female,Wrist Sprain,3,Improved ROM (Wrist),Wrist Extensor Stretches,Wrist Stretches,Grip Strengthening Exercises,4,9,4,12,2,12,5
+6315,44,Female,Hip Arthritis,1,Reduced Pain (Hip),Glute Bridges,Range of Motion Exercises (hip),"Water Exercises (walking, aerobics)",3,11,2,10,2,10,5
+9581,54,Female,Meniscus Tear,6,Reduced Pain (Knee),Ankle Circles,Walking Squats (modified),Hamstring Curls (light weight),3,11,4,9,4,10,7
+2159,54,Male,Patellar Tendinitis,4,Reduced Pain (Knee),Calf Raises (seated),Wall Sits,Quad Extensions (isometric),4,12,4,8,4,11,7
+2058,24,Female,Labrum Tear,5,Improved Stability (Shoulder),Internal Rotations (isometric),Plank (high),Pendulum Exercises,3,12,4,10,2,10,7
+9817,48,Male,Wrist Strain,1,Improved Flexibility (Wrist),Grip Strengthening Exercises,Wrist Stretches,Wrist Flexor Stretches,2,9,3,8,4,9,8
+3289,23,Male,Shoulder Bursitis,0,Improved Flexibility (Shoulder),Scapular Retractions,Pendulum Exercises,Plank (high),3,12,4,10,2,10,7
+7264,63,Female,Rotator Cuff Tear,5,Improved ROM (Shoulder),Scapular Retractions,External Rotations (light weight),Pendulum Exercises,4,12,1,9,2,9,9
+8523,60,Female,Golfer's Elbow,3,Reduced Pain (Elbow),Wrist Flexor Stretches,Eccentric Wrist Flexions,Grip Strengthening Exercises,4,9,3,9,3,10,8
+4708,50,Female,ACL Tear,6,Increased Strength (Knee),Calf Raises (seated),Ankle Circles,Plank (high),4,12,3,11,2,11,9
+9345,58,Female,Meniscus Tear,4,Reduced Pain (Knee),Calf Raises (seated),Walking Squats (modified),Hamstring Curls (light weight),2,9,3,9,4,12,7
+3271,23,Female,Wrist Strain,0,Reduced Pain (Wrist),Grip Strengthening Exercises,Wrist Stretches,Wrist Flexor Stretches,3,11,3,12,4,9,5
+4524,45,Male,ACL Tear,6,Increased Strength (Knee),Ankle Circles,Walking Squats (modified),Hamstring Curls (light weight),4,12,4,8,3,11,10
+6536,40,Female,Wrist Strain,1,Improved Flexibility (Wrist),Wrist Extensor Stretches,Wrist Stretches,Grip Strengthening Exercises,3,11,4,12,2,8,8
+8046,45,Male,Tennis Elbow,5,Reduced Pain (Elbow),Eccentric Wrist Extensions,Wrist Extensor Stretches,Grip Strengthening Exercises,4,11,1,8,4,8,5
+7759,63,Male,Tennis Elbow,0,Reduced Pain (Elbow),Grip Strengthening Exercises,Wrist Extensor Stretches,Eccentric Wrist Extensions,4,12,3,10,4,10,9
+4462,26,Male,Hip Bursitis,2,Reduced Pain (Hip),Clamshells,Side Plank,Glute Bridges,3,12,3,11,2,10,6
+1225,38,Male,Ankle Sprain,6,Improved Stability (Ankle),Towel Toe Curls,Calf Raises (seated),Balance Exercises (single leg stance),2,10,1,10,4,9,6
+7415,42,Female,Shoulder Bursitis,3,Improved Flexibility (Shoulder),Plank (high),Posture Exercises,Pendulum Exercises,4,12,2,8,2,12,5
+2635,51,Male,Shoulder Bursitis,8,Reduced Pain (Shoulder),Posture Exercises,Plank (high),Pendulum Exercises,3,11,4,10,2,8,9
+8964,41,Female,Osgood-Schlatter,4,Reduced Pain (Knee),Straight Leg Raises,Bird Dog,Ankle Circles,3,10,4,10,4,12,6
+7497,50,Male,Lordosis,5,Strengthening Abdominal Muscles,Core Strengthening Exercises,Pelvic Tilt Exercises,Strengthening Exercises (Abs and Lower Back),2,12,1,8,4,9,6
+2553,59,Male,Frozen Shoulder,8,Improved Flexibility (Shoulder),Doorway Shoulder Stretches,Passive Range of Motion Exercises (shoulder),Heat Therapy,3,9,2,12,3,11,7
+5608,24,Male,Wrist Strain,6,Reduced Pain (Wrist),Grip Strengthening Exercises,Wrist Stretches,Wrist Extensor Stretches,2,10,4,11,2,12,7
+8888,36,Female,Lordosis,9,Improved Posture,Strengthening Exercises (Abs and Lower Back),Pelvic Tilt Exercises,Core Strengthening Exercises,3,11,1,12,4,10,5
+8109,32,Male,Ankle Strain,9,Improved Flexibility (Ankle),Calf Raises (seated),Ankle Circles (both directions),Plantar Fascia Massage,2,8,2,8,4,8,10
+1122,57,Male,Wrist Sprain,0,Improved ROM (Wrist),Wrist Flexor Stretches,Wrist Extensor Stretches,Grip Strengthening Exercises,3,9,4,8,3,11,8
+4033,21,Male,Wrist Strain,6,Reduced Pain (Wrist),Wrist Extensor Stretches,Wrist Flexor Stretches,Wrist Stretches,3,11,3,12,3,11,9
+9808,52,Female,Ankle Strain,9,Improved Flexibility (Ankle),Balance Exercises (single leg stance),Plantar Fascia Massage,Calf Raises (seated),4,12,2,9,2,10,7
+6610,28,Female,Golfer's Elbow,9,Reduced Pain (Elbow),Grip Strengthening Exercises,Wrist Flexor Stretches,Eccentric Wrist Flexions,2,10,4,10,2,10,6
+6784,29,Male,Wrist Strain,3,Improved Flexibility (Wrist),Wrist Flexor Stretches,Wrist Extensor Stretches,Wrist Stretches,4,11,2,9,3,11,3
+6618,33,Female,Frozen Shoulder,2,Improved ROM (Shoulder),Passive Range of Motion Exercises (shoulder),Heat Therapy,Doorway Shoulder Stretches,3,8,3,12,3,12,6
+7868,33,Female,Ankle Sprain,9,Improved Stability (Ankle),Balance Exercises (single leg stance),Ankle Circles (both directions),Calf Raises (seated),4,12,1,11,2,8,8
+5944,52,Female,Meniscus Tear,5,Reduced Pain (Knee),Walking Squats (modified),Calf Raises (seated),Hamstring Curls (light weight),3,12,3,11,3,8,8
+4827,29,Male,Achilles Tendinitis,3,Reduced Pain (Achilles Tendon),Eccentric Heel Drops,Calf Raises (seated),Wall Sits,4,11,3,12,3,12,7
+8635,58,Female,Ankle Strain,4,Reduced Pain (Ankle),Balance Exercises (single leg stance),Plantar Fascia Massage,Calf Raises (seated),2,11,2,11,2,12,7
+4701,54,Male,Achilles Tendinitis,10,Reduced Pain (Achilles Tendon),Calf Raises (seated),Wall Sits,Eccentric Heel Drops,2,8,3,12,3,8,6
+9539,24,Female,Rotator Cuff Tear,6,Increased Strength (Shoulder),Internal Rotations (isometric),Pendulum Exercises,External Rotations (light weight),3,11,4,10,3,8,8
+7814,43,Female,Patellar Tendinitis,9,Reduced Pain (Knee),Hamstring Curls (light weight),Quad Extensions (isometric),Plank (high),4,10,2,12,2,9,5
+5875,35,Female,Hip Arthritis,1,Reduced Pain (Hip),Glute Bridges,Range of Motion Exercises (hip),"Water Exercises (walking, aerobics)",4,8,4,12,4,8,10
+2719,60,Male,Plantar Fasciitis,5,Reduced Pain (Plantar Fascia),Towel Toe Curls,Short Foot Exercises,Plantar Fascia Massage,3,11,1,10,2,9,3
+9515,59,Female,Achilles Tendinitis,9,Increased Strength (Calf),Wall Sits,Calf Raises (seated),Eccentric Heel Drops,4,11,1,11,4,11,7
+5884,65,Female,ACL Tear,7,Increased Strength (Knee),Hamstring Curls (light weight),Calf Raises (seated),Ankle Circles,2,10,1,10,3,9,9
+4849,38,Male,Plantar Fasciitis,7,Improved Flexibility (Plantar Fascia),Towel Toe Curls,Calf Stretches,Short Foot Exercises,4,9,2,9,3,11,10
+2445,22,Female,Scoliosis,7,Increased Core Strength,Back Extension Exercises,Stretching Exercises,Pilates,4,12,1,8,3,8,3
+3238,29,Male,Hip Arthritis,1,Improved Joint Mobility (Hip),"Water Exercises (walking, aerobics)",Range of Motion Exercises (hip),Glute Bridges,2,8,4,9,4,12,6
+3531,57,Female,Hip Labral Tear,9,Increased Strength (Hip),Plank (high),Glute Bridges,Internal Rotations (light weight),3,8,1,11,2,12,7
+1666,34,Male,Lordosis,5,Improved Posture,Stretching Exercises,Pelvic Tilt Exercises,Core Strengthening Exercises,3,10,4,9,3,10,4
+4549,43,Female,Plantar Fasciitis,2,Improved Flexibility (Plantar Fascia),Plantar Fascia Massage,Towel Toe Curls,Calf Stretches,4,8,4,10,3,10,9
+5252,54,Male,Labrum Tear,6,Improved ROM (Shoulder),External Rotations (light weight),Internal Rotations (isometric),Pendulum Exercises,2,9,2,11,2,11,3
+5599,54,Female,Lordosis,8,Improved Posture,Stretching Exercises,Pelvic Tilt Exercises,Strengthening Exercises (Abs and Lower Back),3,12,1,12,2,12,3
+6405,35,Male,Ankle Strain,6,Improved Flexibility (Ankle),Calf Raises (seated),Plantar Fascia Massage,Ankle Circles (both directions),4,12,1,8,2,12,8
+5319,57,Male,Wrist Strain,0,Reduced Pain (Wrist),Grip Strengthening Exercises,Wrist Stretches,Wrist Flexor Stretches,2,8,4,10,2,12,8
+7927,28,Female,ACL Tear,9,Increased Strength (Knee),"Lunges (forward/reverse, bodyweight)",Walking Squats (modified),Ankle Circles,4,10,1,12,2,12,3
+1414,22,Male,Scoliosis,10,Increased Core Strength,Core Strengthening Exercises,Pilates,Back Extension Exercises,3,12,3,12,3,10,5
+2773,60,Female,Hip Labral Tear,1,Increased Strength (Hip),Plank (high),Internal Rotations (light weight),Glute Bridges,2,9,3,10,4,12,5
+1045,51,Male,Shoulder Bursitis,4,Improved Flexibility (Shoulder),Pendulum Exercises,Posture Exercises,Scapular Retractions,3,9,3,12,4,9,10
+3039,35,Female,Ankle Strain,4,Improved Flexibility (Ankle),Balance Exercises (single leg stance),Ankle Circles (both directions),Calf Raises (seated),4,11,1,11,3,9,4
+1942,61,Male,Labrum Tear,2,Improved Stability (Shoulder),External Rotations (light weight),Plank (high),Pendulum Exercises,2,10,3,8,4,9,10
+8494,48,Female,Shoulder Bursitis,2,Reduced Pain (Shoulder),Scapular Retractions,Posture Exercises,Plank (high),4,11,2,10,2,9,10
+4100,31,Female,Ankle Sprain,6,Improved ROM (Ankle),Towel Toe Curls,Ankle Circles (both directions),Balance Exercises (single leg stance),4,8,1,12,2,12,9
+7642,39,Female,Frozen Shoulder,0,Improved ROM (Shoulder),Passive Range of Motion Exercises (shoulder),Heat Therapy,Doorway Shoulder Stretches,2,9,1,12,4,9,8
+8596,52,Male,Wrist Strain,7,Improved Flexibility (Wrist),Wrist Extensor Stretches,Grip Strengthening Exercises,Wrist Stretches,3,9,1,8,4,12,5
+9482,22,Female,Hip Arthritis,1,Reduced Pain (Hip),"Water Exercises (walking, aerobics)",Glute Bridges,Range of Motion Exercises (hip),2,8,4,9,3,8,7
+7426,58,Male,Scoliosis,10,Improved Posture,Stretching Exercises,Core Strengthening Exercises,Back Extension Exercises,3,11,2,10,4,10,5
+2932,40,Male,Tennis Elbow,8,Improved Strength (Forearm),Grip Strengthening Exercises,Wrist Extensor Stretches,Eccentric Wrist Extensions,3,11,4,8,4,10,6
+7398,31,Male,Hip Labral Tear,8,Increased Strength (Hip),External Rotations,Internal Rotations (light weight),Glute Bridges,3,8,4,12,2,11,8
+3239,51,Female,ACL Tear,6,Improved ROM (Knee),Ankle Circles,"Lunges (forward/reverse, bodyweight)",Hamstring Curls (light weight),2,12,4,8,4,10,5
+4479,38,Male,Hip Bursitis,7,Improved Flexibility (Hip),Clamshells,Hip Flexor Stretches,Side Plank,2,8,2,9,2,10,6
+9954,38,Female,Wrist Sprain,10,Improved ROM (Wrist),Grip Strengthening Exercises,Wrist Stretches,Wrist Extensor Stretches,2,9,1,12,4,12,4
+5647,48,Female,Patellar Tendinitis,6,Reduced Pain (Knee),Wall Sits,Hamstring Curls (light weight),Ankle Circles,3,9,3,8,4,10,8
+8259,26,Male,Meniscus Tear,4,Improved ROM (Knee),Calf Raises (seated),Side Plank,Hamstring Curls (light weight),3,12,2,11,4,11,9
+5270,53,Male,Wrist Strain,2,Improved Flexibility (Wrist),Wrist Flexor Stretches,Wrist Stretches,Grip Strengthening Exercises,4,8,2,11,3,8,7
+2066,28,Male,ACL Tear,0,Improved ROM (Knee),Walking Squats (modified),Calf Raises (seated),Hamstring Curls (light weight),3,11,4,12,3,11,8
+7472,49,Male,Wrist Strain,2,Reduced Pain (Wrist),Wrist Extensor Stretches,Wrist Stretches,Wrist Flexor Stretches,2,8,4,12,3,8,8
+1266,26,Male,Plantar Fasciitis,5,Improved Flexibility (Plantar Fascia),Plantar Fascia Massage,Calf Stretches,Short Foot Exercises,4,12,1,10,3,8,10
+6981,27,Male,Plantar Fasciitis,9,Reduced Pain (Plantar Fascia),Plantar Fascia Massage,Calf Stretches,Towel Toe Curls,2,8,2,9,3,11,7
+4358,32,Female,Hip Bursitis,8,Reduced Pain (Hip),Glute Bridges,Side Plank,Clamshells,2,10,2,9,2,8,4
+2314,48,Female,Hip Labral Tear,6,Increased Strength (Hip),Internal Rotations (light weight),External Rotations,Plank (high),2,10,3,10,4,12,3
+6681,40,Male,Patellar Tendinitis,5,Reduced Pain (Knee),Wall Sits,Quad Extensions (isometric),Calf Raises (seated),4,9,1,11,3,12,7
+9288,28,Female,Wrist Strain,0,Improved Flexibility (Wrist),Wrist Flexor Stretches,Grip Strengthening Exercises,Wrist Extensor Stretches,3,9,1,8,3,9,7
+1501,53,Female,Golfer's Elbow,1,Improved Strength (Forearm),Eccentric Wrist Flexions,Wrist Flexor Stretches,Grip Strengthening Exercises,3,12,2,11,4,11,6
+6815,25,Female,Ankle Strain,2,Improved Flexibility (Ankle),Ankle Circles (both directions),Plantar Fascia Massage,Calf Raises (seated),4,11,2,11,4,10,6
+9263,27,Female,Golfer's Elbow,0,Reduced Pain (Elbow),Grip Strengthening Exercises,Eccentric Wrist Flexions,Wrist Flexor Stretches,2,9,2,8,2,8,9
+1513,32,Female,Labrum Tear,6,Improved Stability (Shoulder),External Rotations (light weight),Internal Rotations (isometric),Plank (high),4,12,4,12,2,8,9
+5672,55,Male,Wrist Carpal Tunnel,8,Reduced Pain (Wrist),Wrist Extensor Stretches,Wrist Stretches,Grip Strengthening Exercises,4,12,3,12,4,8,4
+5416,51,Female,Meniscus Tear,1,Improved ROM (Knee),Side Plank,Walking Squats (modified),Short Arc Quad Sets,2,11,3,11,2,10,7
+1483,41,Male,Hip Bursitis,7,Reduced Pain (Hip),Glute Bridges,Hip Flexor Stretches,Clamshells,2,12,2,10,2,11,8
+9795,55,Male,Kyphosis,4,Improved Posture,Posture Correction Exercises,Stretching Exercises,Strengthening Exercises (Back and Shoulders),2,8,2,9,4,9,10
+1628,52,Female,Achilles Tendinitis,10,Increased Strength (Calf),Ankle Circles (both directions),Calf Raises (seated),Wall Sits,2,11,4,9,4,11,10
+6181,31,Male,Frozen Shoulder,1,Improved ROM (Shoulder),Heat Therapy,Passive Range of Motion Exercises (shoulder),Doorway Shoulder Stretches,4,8,4,8,3,8,6
+7686,35,Male,ACL Tear,1,Increased Strength (Knee),Plank (high),Walking Squats (modified),Hamstring Curls (light weight),3,11,4,11,2,8,3
+1528,22,Male,Hip Bursitis,2,Reduced Pain (Hip),Clamshells,Glute Bridges,Hip Flexor Stretches,2,9,2,12,2,9,10
+3475,27,Female,Patellar Tendinitis,10,Reduced Pain (Knee),Calf Raises (seated),Quad Extensions (isometric),Wall Sits,3,12,3,11,2,8,9
+3460,31,Female,ACL Tear,9,Increased Strength (Knee),"Lunges (forward/reverse, bodyweight)",Plank (high),Hamstring Curls (light weight),4,9,4,8,3,9,8
+2950,33,Male,Achilles Tendinitis,8,Reduced Pain (Achilles Tendon),Eccentric Heel Drops,Ankle Circles (both directions),Wall Sits,3,10,3,9,3,11,10
+8439,40,Male,Kyphosis,6,Improved Posture,Strengthening Exercises (Back and Shoulders),Posture Correction Exercises,Stretching Exercises,2,11,3,9,2,9,10
+8987,61,Female,Frozen Shoulder,5,Improved ROM (Shoulder),Heat Therapy,Passive Range of Motion Exercises (shoulder),Doorway Shoulder Stretches,3,11,2,10,2,12,3
+3541,47,Male,Rotator Cuff Tear,0,Increased Strength (Shoulder),Internal Rotations (isometric),External Rotations (light weight),Scapular Retractions,3,8,1,10,2,9,10
+1844,34,Male,Ankle Sprain,1,Improved Stability (Ankle),Towel Toe Curls,Balance Exercises (single leg stance),Calf Raises (seated),2,9,1,11,4,8,9
+8296,50,Male,Wrist Strain,1,Reduced Pain (Wrist),Wrist Stretches,Grip Strengthening Exercises,Wrist Flexor Stretches,2,10,4,9,4,11,8
+5961,41,Female,Hip Labral Tear,2,Improved ROM (Hip),Plank (high),Glute Bridges,External Rotations,3,9,1,10,2,9,3
+2598,34,Male,Tennis Elbow,7,Improved Strength (Forearm),Grip Strengthening Exercises,Wrist Extensor Stretches,Eccentric Wrist Extensions,4,11,2,11,2,8,3
+1084,38,Male,Ankle Strain,2,Improved Flexibility (Ankle),Plantar Fascia Massage,Ankle Circles (both directions),Balance Exercises (single leg stance),2,10,2,11,3,8,7
+9541,56,Female,ACL Tear,6,Increased Strength (Knee),Hamstring Curls (light weight),"Lunges (forward/reverse, bodyweight)",Calf Raises (seated),3,12,3,11,4,9,6
+5687,64,Female,Frozen Shoulder,5,Improved ROM (Shoulder),Doorway Shoulder Stretches,Heat Therapy,Passive Range of Motion Exercises (shoulder),2,9,2,10,3,8,4
+7250,39,Female,Kyphosis,8,Improved Posture,Thoracic Extension Exercises,Stretching Exercises,Strengthening Exercises (Back and Shoulders),2,10,4,8,4,9,3
+7871,48,Female,Lordosis,8,Improved Posture,Strengthening Exercises (Abs and Lower Back),Pelvic Tilt Exercises,Stretching Exercises,2,10,4,12,4,9,4
+4441,39,Male,Wrist Carpal Tunnel,7,Improved Flexibility (Wrist),Wrist Stretches,Wrist Extensor Stretches,Wrist Flexor Stretches,3,9,1,12,3,8,6
+5723,43,Female,Lordosis,2,Strengthening Abdominal Muscles,Pelvic Tilt Exercises,Strengthening Exercises (Abs and Lower Back),Core Strengthening Exercises,3,12,2,10,2,12,6
+3537,28,Male,Golfer's Elbow,8,Reduced Pain (Elbow),Grip Strengthening Exercises,Wrist Flexor Stretches,Eccentric Wrist Flexions,3,8,2,12,3,11,5
+3699,33,Female,Meniscus Tear,1,Reduced Pain (Knee),Calf Raises (seated),Hamstring Curls (light weight),Short Arc Quad Sets,4,11,3,12,4,11,7
+4442,25,Female,ACL Tear,7,Improved ROM (Knee),Plank (high),"Lunges (forward/reverse, bodyweight)",Hamstring Curls (light weight),2,11,3,12,2,8,9
+4269,54,Male,Wrist Sprain,7,Improved ROM (Wrist),Wrist Stretches,Wrist Extensor Stretches,Wrist Flexor Stretches,3,12,4,12,2,11,3
+3901,47,Female,Achilles Tendinitis,6,Increased Strength (Calf),Ankle Circles (both directions),Wall Sits,Calf Raises (seated),3,12,3,12,4,9,3
+1305,48,Female,Osgood-Schlatter,10,Reduced Inflammation (Knee),Ankle Circles,Bird Dog,Straight Leg Raises,3,11,2,12,3,9,7
+4614,59,Female,Hip Bursitis,0,Improved Flexibility (Hip),Glute Bridges,Hip Flexor Stretches,Clamshells,4,8,3,8,2,9,10
+1760,38,Female,Osgood-Schlatter,7,Reduced Pain (Knee),Bird Dog,Calf Raises (seated),Ankle Circles,2,10,4,12,2,9,4
+9557,40,Male,Hip Arthritis,0,Reduced Pain (Hip),Glute Bridges,"Water Exercises (walking, aerobics)",Range of Motion Exercises (hip),2,9,4,9,2,11,10
+3659,58,Female,Hip Arthritis,9,Reduced Pain (Hip),Range of Motion Exercises (hip),"Water Exercises (walking, aerobics)",Glute Bridges,2,10,2,8,2,8,7
+8573,60,Male,Kyphosis,10,Strengthening Posterior Chain Muscles,Posture Correction Exercises,Stretching Exercises,Strengthening Exercises (Back and Shoulders),3,8,1,9,4,9,6
+1866,31,Female,Frozen Shoulder,10,Improved ROM (Shoulder),Passive Range of Motion Exercises (shoulder),Heat Therapy,Doorway Shoulder Stretches,3,12,1,11,4,11,10
+8077,28,Female,Meniscus Tear,6,Reduced Pain (Knee),Short Arc Quad Sets,Calf Raises (seated),Side Plank,4,11,4,12,4,11,10
+1082,21,Male,Lordosis,10,Strengthening Abdominal Muscles,Core Strengthening Exercises,Pelvic Tilt Exercises,Stretching Exercises,2,9,1,12,3,9,8
+1023,27,Female,Frozen Shoulder,6,Improved ROM (Shoulder),Passive Range of Motion Exercises (shoulder),Heat Therapy,Doorway Shoulder Stretches,4,9,1,11,3,11,3
+2305,20,Female,Wrist Sprain,1,Improved Stability (Wrist),Wrist Extensor Stretches,Grip Strengthening Exercises,Wrist Flexor Stretches,3,9,1,10,4,12,7
+2957,44,Female,Osgood-Schlatter,6,Reduced Inflammation (Knee),Ankle Circles,Straight Leg Raises,Hamstring Curls (light weight),4,10,3,10,3,11,3
+5497,22,Female,Wrist Carpal Tunnel,10,Reduced Pain (Wrist),Wrist Flexor Stretches,Grip Strengthening Exercises,Wrist Extensor Stretches,3,10,1,10,3,9,9
+8803,35,Male,Ankle Sprain,7,Improved ROM (Ankle),Calf Raises (seated),Towel Toe Curls,Ankle Circles (both directions),4,10,4,11,4,11,8
+2878,24,Female,Golfer's Elbow,0,Reduced Pain (Elbow),Eccentric Wrist Flexions,Wrist Flexor Stretches,Grip Strengthening Exercises,4,8,2,8,4,11,9
+9748,29,Male,Plantar Fasciitis,1,Reduced Pain (Plantar Fascia),Plantar Fascia Massage,Calf Stretches,Short Foot Exercises,4,8,2,10,4,11,10
+4062,49,Female,ACL Tear,10,Improved ROM (Knee),Ankle Circles,Plank (high),Calf Raises (seated),3,11,4,12,3,9,4
+1469,42,Male,Ankle Strain,2,Reduced Pain (Ankle),Calf Raises (seated),Ankle Circles (both directions),Plantar Fascia Massage,2,10,4,10,2,8,5
+4254,37,Female,Tennis Elbow,10,Reduced Pain (Elbow),Eccentric Wrist Extensions,Grip Strengthening Exercises,Wrist Extensor Stretches,4,12,3,10,4,8,3
+1914,27,Male,Frozen Shoulder,9,Improved Flexibility (Shoulder),Doorway Shoulder Stretches,Heat Therapy,Passive Range of Motion Exercises (shoulder),2,10,2,11,4,12,10
+6970,65,Female,Tennis Elbow,6,Improved Strength (Forearm),Grip Strengthening Exercises,Eccentric Wrist Extensions,Wrist Extensor Stretches,4,9,4,8,4,9,3
+8956,46,Male,Labrum Tear,10,Improved Stability (Shoulder),Plank (high),Pendulum Exercises,Internal Rotations (isometric),2,12,1,11,4,9,6
+7580,64,Female,Wrist Strain,7,Reduced Pain (Wrist),Grip Strengthening Exercises,Wrist Stretches,Wrist Extensor Stretches,3,10,1,12,2,11,8
+1118,23,Male,Shoulder Bursitis,8,Improved Flexibility (Shoulder),Plank (high),Scapular Retractions,Posture Exercises,3,9,3,10,2,9,4
+5738,40,Female,Ankle Strain,0,Reduced Pain (Ankle),Balance Exercises (single leg stance),Calf Raises (seated),Plantar Fascia Massage,4,9,3,11,3,10,6
+6409,23,Male,Ankle Strain,10,Improved Flexibility (Ankle),Ankle Circles (both directions),Calf Raises (seated),Balance Exercises (single leg stance),3,10,2,9,2,9,5
+7589,55,Female,Kyphosis,10,Strengthening Posterior Chain Muscles,Stretching Exercises,Thoracic Extension Exercises,Strengthening Exercises (Back and Shoulders),2,8,3,10,3,12,8
+1337,56,Female,Osgood-Schlatter,8,Reduced Pain (Knee),Bird Dog,Straight Leg Raises,Ankle Circles,2,10,4,9,2,11,8
+3911,26,Male,Hip Labral Tear,5,Increased Strength (Hip),Internal Rotations (light weight),External Rotations,Glute Bridges,4,10,3,10,2,11,9
+8425,21,Male,Scoliosis,0,Increased Core Strength,Back Extension Exercises,Core Strengthening Exercises,Stretching Exercises,2,9,1,10,4,11,4
+1214,29,Male,Lordosis,2,Improved Posture,Strengthening Exercises (Abs and Lower Back),Core Strengthening Exercises,Pelvic Tilt Exercises,4,12,2,12,4,10,8
+8157,55,Female,Scoliosis,4,Improved Posture,Core Strengthening Exercises,Stretching Exercises,Back Extension Exercises,4,11,3,9,3,10,3
+3465,46,Male,Rotator Cuff Tear,2,Improved ROM (Shoulder),Pendulum Exercises,Internal Rotations (isometric),External Rotations (light weight),4,8,3,8,3,12,4
+4396,52,Male,Hip Bursitis,5,Reduced Pain (Hip),Clamshells,Side Plank,Glute Bridges,3,12,2,10,4,9,7
+1898,51,Male,Ankle Sprain,0,Improved Stability (Ankle),Calf Raises (seated),Ankle Circles (both directions),Towel Toe Curls,3,10,3,9,2,10,5
+4724,53,Male,Osgood-Schlatter,2,Reduced Inflammation (Knee),Straight Leg Raises,Calf Raises (seated),Ankle Circles,4,8,2,8,2,8,5
+9585,47,Male,Scoliosis,0,Increased Core Strength,Back Extension Exercises,Core Strengthening Exercises,Pilates,2,9,4,11,3,10,3
+8519,20,Female,Scoliosis,3,Increased Core Strength,Pilates,Back Extension Exercises,Core Strengthening Exercises,2,11,1,11,2,12,3
+8521,59,Female,Golfer's Elbow,9,Improved Strength (Forearm),Grip Strengthening Exercises,Wrist Flexor Stretches,Eccentric Wrist Flexions,3,9,2,9,2,10,8
+6323,26,Female,Rotator Cuff Tear,8,Improved ROM (Shoulder),Scapular Retractions,Internal Rotations (isometric),External Rotations (light weight),2,12,2,10,4,11,10
+4323,26,Female,Hip Bursitis,1,Improved Flexibility (Hip),Clamshells,Side Plank,Glute Bridges,3,8,1,9,3,12,6
+7009,45,Male,Wrist Sprain,8,Improved ROM (Wrist),Wrist Stretches,Wrist Extensor Stretches,Wrist Flexor Stretches,4,8,1,10,2,11,7
+4261,38,Male,Osgood-Schlatter,8,Reduced Inflammation (Knee),Straight Leg Raises,Hamstring Curls (light weight),Calf Raises (seated),3,8,1,10,2,9,8
+6905,40,Male,Shoulder Bursitis,5,Improved Flexibility (Shoulder),Scapular Retractions,Pendulum Exercises,Plank (high),4,9,4,11,3,11,3
+3027,38,Female,Labrum Tear,9,Improved Stability (Shoulder),Plank (high),External Rotations (light weight),Pendulum Exercises,3,12,2,11,2,11,4
+6685,32,Male,ACL Tear,8,Increased Strength (Knee),Calf Raises (seated),Ankle Circles,Plank (high),3,11,2,10,2,11,4
+6590,55,Male,Wrist Strain,4,Reduced Pain (Wrist),Wrist Flexor Stretches,Wrist Stretches,Wrist Extensor Stretches,4,12,2,11,3,12,7
+5809,54,Male,Golfer's Elbow,1,Improved Strength (Forearm),Grip Strengthening Exercises,Eccentric Wrist Flexions,Wrist Flexor Stretches,4,12,2,9,2,10,8
+6646,43,Male,Labrum Tear,3,Improved ROM (Shoulder),Internal Rotations (isometric),Plank (high),Pendulum Exercises,4,10,2,9,2,8,8
+8820,28,Male,ACL Tear,8,Increased Strength (Knee),Plank (high),Hamstring Curls (light weight),Ankle Circles,4,8,4,12,3,11,8
+4157,28,Female,Hip Labral Tear,10,Improved ROM (Hip),Glute Bridges,Internal Rotations (light weight),Plank (high),3,10,3,11,4,10,3
+6236,39,Male,Patellar Tendinitis,0,Increased Flexibility (Knee),Plank (high),Quad Extensions (isometric),Calf Raises (seated),4,10,2,9,4,9,3
+8898,21,Male,Wrist Strain,0,Reduced Pain (Wrist),Wrist Stretches,Grip Strengthening Exercises,Wrist Extensor Stretches,3,8,4,10,3,9,5
+8978,43,Male,Wrist Sprain,10,Improved ROM (Wrist),Wrist Stretches,Wrist Extensor Stretches,Grip Strengthening Exercises,4,10,4,10,4,10,6
+4336,24,Male,ACL Tear,7,Improved ROM (Knee),Calf Raises (seated),Plank (high),Walking Squats (modified),2,11,4,10,3,10,5
+6787,28,Female,Ankle Sprain,2,Improved ROM (Ankle),Towel Toe Curls,Ankle Circles (both directions),Calf Raises (seated),4,11,2,11,3,12,9
+4968,65,Female,Shoulder Bursitis,10,Improved Flexibility (Shoulder),Scapular Retractions,Posture Exercises,Pendulum Exercises,3,11,4,8,3,12,8
+5602,24,Male,Osgood-Schlatter,6,Reduced Inflammation (Knee),Straight Leg Raises,Hamstring Curls (light weight),Ankle Circles,4,10,3,8,4,10,9
+5733,41,Male,Hip Arthritis,1,Improved Joint Mobility (Hip),"Water Exercises (walking, aerobics)",Range of Motion Exercises (hip),Glute Bridges,2,9,1,8,4,12,9
+4877,31,Female,Hip Labral Tear,6,Increased Strength (Hip),Glute Bridges,Internal Rotations (light weight),External Rotations,4,11,1,11,3,11,4
+9727,40,Male,Frozen Shoulder,1,Improved ROM (Shoulder),Doorway Shoulder Stretches,Passive Range of Motion Exercises (shoulder),Heat Therapy,2,12,2,10,2,10,7
+3872,61,Male,Ankle Strain,6,Improved Flexibility (Ankle),Balance Exercises (single leg stance),Calf Raises (seated),Ankle Circles (both directions),3,11,4,12,3,10,4
+8138,43,Male,Scoliosis,0,Improved Posture,Stretching Exercises,Core Strengthening Exercises,Pilates,2,9,1,11,3,11,6
+3855,37,Female,Golfer's Elbow,8,Improved Strength (Forearm),Grip Strengthening Exercises,Eccentric Wrist Flexions,Wrist Flexor Stretches,3,10,3,11,4,10,7
+8975,41,Male,ACL Tear,8,Increased Strength (Knee),Ankle Circles,Hamstring Curls (light weight),Plank (high),4,9,1,9,4,8,6
+1818,25,Female,Shoulder Bursitis,5,Improved Flexibility (Shoulder),Pendulum Exercises,Plank (high),Posture Exercises,2,12,4,9,4,10,7
+7465,51,Male,Hip Bursitis,0,Improved Flexibility (Hip),Clamshells,Hip Flexor Stretches,Side Plank,3,11,2,8,2,11,7
+5425,47,Female,Tennis Elbow,3,Improved Strength (Forearm),Wrist Extensor Stretches,Grip Strengthening Exercises,Eccentric Wrist Extensions,2,10,4,9,4,12,5
+1969,30,Male,Osgood-Schlatter,4,Reduced Pain (Knee),Calf Raises (seated),Ankle Circles,Bird Dog,4,11,2,11,3,9,5
+3692,62,Female,Ankle Strain,8,Improved Flexibility (Ankle),Ankle Circles (both directions),Plantar Fascia Massage,Calf Raises (seated),3,10,4,8,4,12,3
+8950,21,Female,Meniscus Tear,0,Improved ROM (Knee),Ankle Circles,Hamstring Curls (light weight),Side Plank,4,8,4,9,3,10,4
+6102,41,Female,Ankle Strain,5,Reduced Pain (Ankle),Plantar Fascia Massage,Ankle Circles (both directions),Calf Raises (seated),4,8,2,12,3,11,9
+8913,59,Male,Osgood-Schlatter,6,Reduced Inflammation (Knee),Calf Raises (seated),Ankle Circles,Straight Leg Raises,4,9,1,10,4,11,6
+8642,59,Female,Rotator Cuff Tear,9,Increased Strength (Shoulder),Internal Rotations (isometric),External Rotations (light weight),Scapular Retractions,3,12,2,9,3,10,10
+9088,61,Female,Plantar Fasciitis,7,Reduced Pain (Plantar Fascia),Towel Toe Curls,Plantar Fascia Massage,Short Foot Exercises,2,9,4,8,3,9,7
+6225,43,Female,Ankle Strain,9,Improved Flexibility (Ankle),Calf Raises (seated),Balance Exercises (single leg stance),Ankle Circles (both directions),4,12,2,8,2,8,9
+6344,40,Male,Patellar Tendinitis,1,Increased Flexibility (Knee),Hamstring Curls (light weight),Ankle Circles,Plank (high),3,10,1,11,4,9,6
+7302,25,Female,Wrist Carpal Tunnel,3,Improved Flexibility (Wrist),Wrist Stretches,Grip Strengthening Exercises,Wrist Flexor Stretches,2,11,3,12,3,9,4
+8146,54,Female,Scoliosis,2,Increased Core Strength,Core Strengthening Exercises,Back Extension Exercises,Pilates,3,11,3,12,4,11,3
+8869,25,Female,Ankle Sprain,4,Improved Stability (Ankle),Ankle Circles (both directions),Balance Exercises (single leg stance),Calf Raises (seated),2,11,3,10,4,12,5
+4037,57,Female,Osgood-Schlatter,0,Reduced Pain (Knee),Bird Dog,Ankle Circles,Calf Raises (seated),3,8,1,8,3,8,9
+8356,38,Female,Wrist Sprain,4,Improved Stability (Wrist),Wrist Stretches,Wrist Flexor Stretches,Grip Strengthening Exercises,2,9,1,10,3,9,8
+4764,24,Male,Wrist Carpal Tunnel,5,Improved Flexibility (Wrist),Grip Strengthening Exercises,Wrist Stretches,Wrist Extensor Stretches,3,10,4,10,3,12,5
+5304,57,Female,Shoulder Bursitis,10,Improved Flexibility (Shoulder),Posture Exercises,Plank (high),Scapular Retractions,3,12,4,10,4,9,4
+8526,46,Female,Ankle Strain,5,Reduced Pain (Ankle),Plantar Fascia Massage,Balance Exercises (single leg stance),Ankle Circles (both directions),3,10,1,10,3,10,9
+3626,62,Female,Golfer's Elbow,3,Improved Strength (Forearm),Grip Strengthening Exercises,Wrist Flexor Stretches,Eccentric Wrist Flexions,3,9,1,12,2,8,5
+2582,37,Female,Patellar Tendinitis,4,Increased Flexibility (Knee),Plank (high),Ankle Circles,Quad Extensions (isometric),2,10,1,12,3,9,5
+4937,59,Female,Ankle Strain,4,Improved Flexibility (Ankle),Calf Raises (seated),Ankle Circles (both directions),Balance Exercises (single leg stance),3,12,4,12,4,8,9
+8027,62,Male,Tennis Elbow,3,Improved Strength (Forearm),Grip Strengthening Exercises,Eccentric Wrist Extensions,Wrist Extensor Stretches,3,8,3,8,3,9,10
+6324,32,Female,Lordosis,4,Strengthening Abdominal Muscles,Core Strengthening Exercises,Pelvic Tilt Exercises,Stretching Exercises,2,10,2,9,4,10,7
+5623,57,Male,Ankle Strain,4,Reduced Pain (Ankle),Ankle Circles (both directions),Balance Exercises (single leg stance),Plantar Fascia Massage,2,9,1,8,4,8,10
+2050,37,Female,Rotator Cuff Tear,1,Increased Strength (Shoulder),External Rotations (light weight),Internal Rotations (isometric),Pendulum Exercises,4,9,2,9,4,8,10
+4414,45,Female,Shoulder Bursitis,1,Reduced Pain (Shoulder),Plank (high),Scapular Retractions,Posture Exercises,3,9,1,11,3,9,4
+8675,57,Male,Wrist Carpal Tunnel,8,Improved Flexibility (Wrist),Grip Strengthening Exercises,Wrist Stretches,Wrist Flexor Stretches,3,11,2,8,3,11,3
+7065,29,Male,Meniscus Tear,6,Reduced Pain (Knee),Short Arc Quad Sets,Ankle Circles,Walking Squats (modified),3,11,2,11,2,10,4
+5979,32,Female,Lordosis,10,Improved Posture,Pelvic Tilt Exercises,Stretching Exercises,Core Strengthening Exercises,3,12,4,11,4,9,7
+7836,58,Female,Labrum Tear,8,Improved ROM (Shoulder),Plank (high),Internal Rotations (isometric),Pendulum Exercises,4,8,1,9,4,8,9
+5922,37,Male,Wrist Sprain,2,Improved Stability (Wrist),Wrist Extensor Stretches,Grip Strengthening Exercises,Wrist Stretches,4,9,4,11,2,12,9
+7776,20,Female,Ankle Strain,0,Reduced Pain (Ankle),Balance Exercises (single leg stance),Plantar Fascia Massage,Calf Raises (seated),2,12,4,12,2,9,8
+4373,28,Male,Kyphosis,9,Improved Posture,Stretching Exercises,Posture Correction Exercises,Thoracic Extension Exercises,4,10,2,9,4,10,4
+7533,30,Female,Wrist Sprain,3,Improved Stability (Wrist),Wrist Extensor Stretches,Grip Strengthening Exercises,Wrist Flexor Stretches,4,9,2,8,2,8,8
+1669,27,Female,Osgood-Schlatter,4,Reduced Pain (Knee),Calf Raises (seated),Ankle Circles,Straight Leg Raises,2,8,3,9,4,9,9
+7747,25,Female,Frozen Shoulder,9,Improved ROM (Shoulder),Heat Therapy,Passive Range of Motion Exercises (shoulder),Doorway Shoulder Stretches,3,11,2,9,4,9,3
+9537,31,Male,Patellar Tendinitis,4,Increased Flexibility (Knee),Plank (high),Ankle Circles,Quad Extensions (isometric),2,11,4,12,2,8,8
+4726,37,Male,Achilles Tendinitis,10,Increased Strength (Calf),Wall Sits,Calf Raises (seated),Ankle Circles (both directions),4,9,2,9,2,8,7
+6568,41,Female,Frozen Shoulder,7,Improved Flexibility (Shoulder),Passive Range of Motion Exercises (shoulder),Heat Therapy,Doorway Shoulder Stretches,2,11,1,9,4,9,7
+4010,54,Male,Hip Arthritis,6,Improved Joint Mobility (Hip),Glute Bridges,Range of Motion Exercises (hip),"Water Exercises (walking, aerobics)",3,10,3,10,2,10,10
+4690,52,Male,Scoliosis,5,Improved Posture,Core Strengthening Exercises,Stretching Exercises,Back Extension Exercises,2,9,2,10,4,11,9
+9513,39,Male,Lordosis,5,Strengthening Abdominal Muscles,Pelvic Tilt Exercises,Core Strengthening Exercises,Strengthening Exercises (Abs and Lower Back),2,9,1,9,2,8,7
+1393,63,Female,Frozen Shoulder,3,Improved ROM (Shoulder),Passive Range of Motion Exercises (shoulder),Heat Therapy,Doorway Shoulder Stretches,3,9,2,11,3,12,5
+3411,27,Female,Achilles Tendinitis,3,Reduced Pain (Achilles Tendon),Calf Raises (seated),Wall Sits,Ankle Circles (both directions),2,8,1,10,4,11,9
+4780,44,Male,Shoulder Bursitis,0,Improved Flexibility (Shoulder),Pendulum Exercises,Posture Exercises,Scapular Retractions,2,9,4,11,2,10,10
+4746,36,Male,Tennis Elbow,8,Improved Strength (Forearm),Grip Strengthening Exercises,Wrist Extensor Stretches,Eccentric Wrist Extensions,4,10,4,10,2,9,10
+6204,32,Male,Scoliosis,8,Improved Posture,Back Extension Exercises,Stretching Exercises,Core Strengthening Exercises,4,11,1,10,2,11,9
+3598,21,Female,Patellar Tendinitis,5,Reduced Pain (Knee),Quad Extensions (isometric),Hamstring Curls (light weight),Ankle Circles,3,11,1,11,3,9,3
+3951,62,Male,Tennis Elbow,1,Reduced Pain (Elbow),Eccentric Wrist Extensions,Grip Strengthening Exercises,Wrist Extensor Stretches,2,9,2,9,2,11,8
+1581,47,Male,Ankle Sprain,6,Improved ROM (Ankle),Ankle Circles (both directions),Calf Raises (seated),Balance Exercises (single leg stance),4,8,4,10,4,12,7
+6559,57,Female,Tennis Elbow,7,Reduced Pain (Elbow),Grip Strengthening Exercises,Wrist Extensor Stretches,Eccentric Wrist Extensions,4,9,4,12,4,9,7
+9866,60,Female,Wrist Strain,0,Improved Flexibility (Wrist),Wrist Flexor Stretches,Grip Strengthening Exercises,Wrist Extensor Stretches,4,10,3,11,2,10,10
+9676,39,Male,Kyphosis,8,Improved Posture,Strengthening Exercises (Back and Shoulders),Thoracic Extension Exercises,Stretching Exercises,4,8,3,10,4,10,6
+2026,38,Female,Scoliosis,6,Increased Core Strength,Pilates,Stretching Exercises,Core Strengthening Exercises,2,9,4,9,2,10,7
+5626,33,Female,ACL Tear,7,Increased Strength (Knee),"Lunges (forward/reverse, bodyweight)",Ankle Circles,Walking Squats (modified),2,9,4,9,4,10,7
+2954,43,Female,Golfer's Elbow,1,Improved Strength (Forearm),Eccentric Wrist Flexions,Wrist Flexor Stretches,Grip Strengthening Exercises,2,12,1,8,4,9,9
+4543,57,Female,Scoliosis,4,Improved Posture,Pilates,Stretching Exercises,Core Strengthening Exercises,3,8,1,9,2,9,10
+7724,30,Male,Tennis Elbow,6,Improved Strength (Forearm),Grip Strengthening Exercises,Eccentric Wrist Extensions,Wrist Extensor Stretches,4,8,2,12,3,10,8
+5014,32,Male,Wrist Sprain,10,Improved Stability (Wrist),Grip Strengthening Exercises,Wrist Stretches,Wrist Flexor Stretches,2,10,2,12,2,8,9
+2860,57,Female,Achilles Tendinitis,4,Increased Strength (Calf),Calf Raises (seated),Ankle Circles (both directions),Eccentric Heel Drops,2,12,3,8,4,8,3
+7841,60,Female,Achilles Tendinitis,3,Increased Strength (Calf),Calf Raises (seated),Wall Sits,Ankle Circles (both directions),4,9,4,11,2,10,3
+4418,35,Female,Golfer's Elbow,8,Reduced Pain (Elbow),Wrist Flexor Stretches,Grip Strengthening Exercises,Eccentric Wrist Flexions,2,10,1,8,2,9,3
+7797,20,Female,Labrum Tear,5,Improved Stability (Shoulder),Pendulum Exercises,Internal Rotations (isometric),External Rotations (light weight),3,9,3,11,3,11,6
+6015,34,Male,Patellar Tendinitis,2,Reduced Pain (Knee),Wall Sits,Plank (high),Quad Extensions (isometric),4,8,3,11,2,12,3
+5093,21,Male,Ankle Sprain,2,Improved Stability (Ankle),Balance Exercises (single leg stance),Towel Toe Curls,Calf Raises (seated),2,10,1,8,2,9,5
+6644,42,Female,ACL Tear,4,Improved ROM (Knee),Calf Raises (seated),Plank (high),Ankle Circles,2,10,3,10,2,8,10
+3560,43,Male,Labrum Tear,2,Improved ROM (Shoulder),Pendulum Exercises,External Rotations (light weight),Plank (high),2,12,3,11,2,8,10
+8694,40,Male,Osgood-Schlatter,1,Reduced Pain (Knee),Hamstring Curls (light weight),Calf Raises (seated),Bird Dog,2,8,3,9,4,12,8
+5841,30,Male,Scoliosis,10,Improved Posture,Pilates,Stretching Exercises,Core Strengthening Exercises,4,12,2,9,2,8,6
+4560,46,Female,Golfer's Elbow,7,Reduced Pain (Elbow),Grip Strengthening Exercises,Eccentric Wrist Flexions,Wrist Flexor Stretches,2,10,1,12,3,8,7
+8087,34,Male,Meniscus Tear,5,Reduced Pain (Knee),Side Plank,Short Arc Quad Sets,Walking Squats (modified),3,11,1,12,3,10,3
+3622,33,Female,Hip Arthritis,10,Improved Joint Mobility (Hip),"Water Exercises (walking, aerobics)",Glute Bridges,Range of Motion Exercises (hip),4,11,1,8,3,11,10
+7217,25,Male,Shoulder Bursitis,4,Improved Flexibility (Shoulder),Posture Exercises,Scapular Retractions,Plank (high),4,11,1,10,2,10,10
+7247,24,Female,Meniscus Tear,7,Reduced Pain (Knee),Calf Raises (seated),Short Arc Quad Sets,Walking Squats (modified),4,9,2,10,4,11,8
+1029,56,Female,Hip Arthritis,10,Reduced Pain (Hip),Range of Motion Exercises (hip),"Water Exercises (walking, aerobics)",Glute Bridges,4,10,3,12,3,10,9
+5640,56,Female,Osgood-Schlatter,3,Reduced Pain (Knee),Ankle Circles,Bird Dog,Straight Leg Raises,2,11,2,11,3,11,7
+3035,58,Male,Wrist Carpal Tunnel,8,Improved Flexibility (Wrist),Wrist Extensor Stretches,Grip Strengthening Exercises,Wrist Stretches,4,9,1,11,4,9,5
+1505,60,Female,Labrum Tear,10,Improved ROM (Shoulder),Plank (high),Internal Rotations (isometric),Pendulum Exercises,2,12,3,11,3,11,9
+6625,37,Female,Hip Labral Tear,5,Improved ROM (Hip),Plank (high),External Rotations,Glute Bridges,3,10,3,9,2,11,5
+7738,45,Male,Wrist Carpal Tunnel,10,Improved Flexibility (Wrist),Wrist Flexor Stretches,Grip Strengthening Exercises,Wrist Extensor Stretches,2,9,1,12,4,9,4
+5744,25,Female,Frozen Shoulder,5,Improved Flexibility (Shoulder),Passive Range of Motion Exercises (shoulder),Doorway Shoulder Stretches,Heat Therapy,3,10,1,10,3,10,3
+4828,57,Female,Wrist Sprain,4,Improved ROM (Wrist),Grip Strengthening Exercises,Wrist Stretches,Wrist Extensor Stretches,3,9,3,10,3,9,3
+9598,47,Female,Frozen Shoulder,10,Improved ROM (Shoulder),Heat Therapy,Doorway Shoulder Stretches,Passive Range of Motion Exercises (shoulder),4,12,1,11,3,9,5
+5276,32,Male,Ankle Sprain,1,Improved Stability (Ankle),Balance Exercises (single leg stance),Ankle Circles (both directions),Calf Raises (seated),2,12,2,12,2,8,3
+8190,33,Male,Scoliosis,0,Improved Posture,Back Extension Exercises,Pilates,Core Strengthening Exercises,2,10,4,10,3,11,4
+1427,21,Female,Patellar Tendinitis,8,Increased Flexibility (Knee),Quad Extensions (isometric),Plank (high),Calf Raises (seated),3,11,2,11,3,11,10
+8559,34,Female,Wrist Strain,4,Reduced Pain (Wrist),Wrist Stretches,Grip Strengthening Exercises,Wrist Extensor Stretches,3,9,3,10,2,11,3
+2596,63,Female,ACL Tear,6,Increased Strength (Knee),"Lunges (forward/reverse, bodyweight)",Calf Raises (seated),Hamstring Curls (light weight),2,9,4,8,2,8,8
+2224,59,Male,Hip Bursitis,9,Improved Flexibility (Hip),Side Plank,Clamshells,Glute Bridges,3,9,2,11,4,12,4
+2571,36,Male,Lordosis,2,Improved Posture,Strengthening Exercises (Abs and Lower Back),Core Strengthening Exercises,Stretching Exercises,3,10,2,12,3,8,9
+6584,24,Male,Frozen Shoulder,5,Improved ROM (Shoulder),Passive Range of Motion Exercises (shoulder),Doorway Shoulder Stretches,Heat Therapy,2,9,4,9,3,12,3
+5055,34,Male,Frozen Shoulder,0,Improved Flexibility (Shoulder),Doorway Shoulder Stretches,Passive Range of Motion Exercises (shoulder),Heat Therapy,3,11,4,12,4,11,9
+8378,48,Female,Rotator Cuff Tear,4,Improved ROM (Shoulder),External Rotations (light weight),Internal Rotations (isometric),Scapular Retractions,4,11,1,11,2,12,5
+2386,43,Male,Hip Arthritis,9,Improved Joint Mobility (Hip),Range of Motion Exercises (hip),Glute Bridges,"Water Exercises (walking, aerobics)",3,9,2,12,2,10,7
+1103,43,Female,Plantar Fasciitis,1,Improved Flexibility (Plantar Fascia),Short Foot Exercises,Towel Toe Curls,Calf Stretches,2,10,3,12,4,8,3
+7418,55,Male,Labrum Tear,1,Improved ROM (Shoulder),Internal Rotations (isometric),External Rotations (light weight),Plank (high),2,8,2,11,3,9,6
+9631,48,Female,Tennis Elbow,6,Improved Strength (Forearm),Wrist Extensor Stretches,Eccentric Wrist Extensions,Grip Strengthening Exercises,2,9,2,10,3,9,9
+6939,33,Male,Patellar Tendinitis,7,Increased Flexibility (Knee),Hamstring Curls (light weight),Quad Extensions (isometric),Ankle Circles,4,8,2,9,2,8,7
+1612,25,Male,Hip Arthritis,7,Improved Joint Mobility (Hip),Range of Motion Exercises (hip),Glute Bridges,"Water Exercises (walking, aerobics)",4,8,1,10,4,8,9
+2231,32,Female,Ankle Strain,8,Reduced Pain (Ankle),Balance Exercises (single leg stance),Plantar Fascia Massage,Ankle Circles (both directions),4,10,4,10,4,10,5
+3317,31,Female,Wrist Strain,7,Improved Flexibility (Wrist),Wrist Stretches,Wrist Flexor Stretches,Grip Strengthening Exercises,3,9,2,8,4,12,4
+5473,25,Male,Plantar Fasciitis,2,Improved Flexibility (Plantar Fascia),Plantar Fascia Massage,Short Foot Exercises,Calf Stretches,3,12,3,12,3,10,6
+9165,27,Female,Kyphosis,5,Improved Posture,Posture Correction Exercises,Thoracic Extension Exercises,Stretching Exercises,3,12,2,10,4,12,3
+9161,63,Male,Hip Labral Tear,0,Increased Strength (Hip),External Rotations,Internal Rotations (light weight),Plank (high),3,10,1,11,3,9,4
+4353,42,Male,Frozen Shoulder,5,Improved ROM (Shoulder),Heat Therapy,Doorway Shoulder Stretches,Passive Range of Motion Exercises (shoulder),4,8,2,9,4,10,3
+7909,60,Male,Ankle Sprain,7,Improved Stability (Ankle),Towel Toe Curls,Balance Exercises (single leg stance),Calf Raises (seated),2,11,1,11,3,11,5
+8276,28,Female,Achilles Tendinitis,1,Reduced Pain (Achilles Tendon),Calf Raises (seated),Ankle Circles (both directions),Eccentric Heel Drops,4,12,4,9,4,9,9
+1343,29,Female,Rotator Cuff Tear,6,Increased Strength (Shoulder),Scapular Retractions,Pendulum Exercises,Internal Rotations (isometric),4,11,2,9,4,10,8
+5218,56,Female,Lordosis,3,Strengthening Abdominal Muscles,Stretching Exercises,Core Strengthening Exercises,Strengthening Exercises (Abs and Lower Back),3,9,4,12,3,8,4
+7563,57,Male,Scoliosis,4,Increased Core Strength,Back Extension Exercises,Core Strengthening Exercises,Stretching Exercises,4,8,2,8,4,10,5
+5325,58,Male,Patellar Tendinitis,8,Reduced Pain (Knee),Calf Raises (seated),Hamstring Curls (light weight),Wall Sits,4,9,3,10,2,11,6
+5793,62,Female,Osgood-Schlatter,5,Reduced Inflammation (Knee),Straight Leg Raises,Hamstring Curls (light weight),Ankle Circles,4,10,3,11,3,8,7
+7400,26,Female,Meniscus Tear,2,Improved ROM (Knee),Short Arc Quad Sets,Calf Raises (seated),Hamstring Curls (light weight),2,10,3,12,3,11,8
+2200,32,Male,Hip Labral Tear,5,Improved ROM (Hip),Glute Bridges,Plank (high),Internal Rotations (light weight),2,10,1,9,3,8,6
+3025,48,Female,Hip Bursitis,2,Reduced Pain (Hip),Glute Bridges,Clamshells,Side Plank,3,10,2,9,3,11,4
+1916,64,Male,Osgood-Schlatter,4,Reduced Inflammation (Knee),Bird Dog,Straight Leg Raises,Calf Raises (seated),2,10,4,10,3,12,10
+4609,21,Female,Hip Bursitis,8,Reduced Pain (Hip),Clamshells,Side Plank,Glute Bridges,4,12,2,11,3,9,7
+2533,25,Female,Plantar Fasciitis,2,Improved Flexibility (Plantar Fascia),Towel Toe Curls,Plantar Fascia Massage,Calf Stretches,2,8,4,11,3,10,10
+6260,60,Male,Ankle Strain,3,Improved Flexibility (Ankle),Calf Raises (seated),Ankle Circles (both directions),Plantar Fascia Massage,3,11,3,11,2,10,7
+4671,45,Male,Tennis Elbow,4,Reduced Pain (Elbow),Wrist Extensor Stretches,Eccentric Wrist Extensions,Grip Strengthening Exercises,2,10,3,11,4,8,3
+9050,36,Female,Meniscus Tear,10,Reduced Pain (Knee),Side Plank,Hamstring Curls (light weight),Short Arc Quad Sets,3,11,1,8,3,8,6
+2884,44,Male,Scoliosis,5,Increased Core Strength,Core Strengthening Exercises,Pilates,Stretching Exercises,2,12,2,11,3,9,6
+8806,24,Female,Hip Labral Tear,9,Improved ROM (Hip),Glute Bridges,Plank (high),Internal Rotations (light weight),3,11,4,12,4,9,10
+4756,28,Male,Plantar Fasciitis,2,Reduced Pain (Plantar Fascia),Calf Stretches,Plantar Fascia Massage,Towel Toe Curls,3,9,4,12,3,8,3
+5232,31,Female,Wrist Sprain,2,Improved Stability (Wrist),Wrist Flexor Stretches,Wrist Stretches,Wrist Extensor Stretches,2,9,2,10,3,12,3
+4949,51,Male,Wrist Sprain,0,Improved Stability (Wrist),Wrist Flexor Stretches,Grip Strengthening Exercises,Wrist Stretches,4,8,4,12,3,9,3
+6021,38,Male,Patellar Tendinitis,5,Reduced Pain (Knee),Wall Sits,Calf Raises (seated),Ankle Circles,4,12,3,11,3,10,8
+4085,55,Female,Wrist Sprain,5,Improved Stability (Wrist),Grip Strengthening Exercises,Wrist Stretches,Wrist Flexor Stretches,3,12,3,10,3,11,4
+4022,39,Female,Plantar Fasciitis,6,Reduced Pain (Plantar Fascia),Towel Toe Curls,Calf Stretches,Short Foot Exercises,3,8,1,9,2,10,3
+2014,62,Male,Tennis Elbow,5,Improved Strength (Forearm),Eccentric Wrist Extensions,Wrist Extensor Stretches,Grip Strengthening Exercises,2,9,1,9,3,11,8
+6881,25,Male,Osgood-Schlatter,10,Reduced Pain (Knee),Straight Leg Raises,Bird Dog,Calf Raises (seated),2,11,2,8,2,12,9
+5377,26,Male,Shoulder Bursitis,1,Reduced Pain (Shoulder),Posture Exercises,Pendulum Exercises,Scapular Retractions,2,12,4,8,4,8,9
+6921,42,Female,Hip Labral Tear,0,Improved ROM (Hip),Internal Rotations (light weight),External Rotations,Glute Bridges,2,11,1,11,3,10,5
+2444,37,Female,Kyphosis,9,Strengthening Posterior Chain Muscles,Posture Correction Exercises,Strengthening Exercises (Back and Shoulders),Stretching Exercises,2,8,2,8,3,9,8
+5354,24,Female,Hip Labral Tear,4,Improved ROM (Hip),External Rotations,Internal Rotations (light weight),Glute Bridges,3,9,4,12,4,12,9
+5360,22,Female,Wrist Carpal Tunnel,2,Reduced Pain (Wrist),Wrist Extensor Stretches,Wrist Stretches,Wrist Flexor Stretches,2,12,2,12,4,8,10
+5286,26,Male,ACL Tear,5,Increased Strength (Knee),Walking Squats (modified),Plank (high),Hamstring Curls (light weight),2,8,1,11,4,8,4
+4940,36,Female,Lordosis,3,Strengthening Abdominal Muscles,Stretching Exercises,Core Strengthening Exercises,Pelvic Tilt Exercises,3,9,1,11,4,8,5
+4788,55,Male,Hip Labral Tear,10,Increased Strength (Hip),Plank (high),Glute Bridges,Internal Rotations (light weight),3,12,2,11,4,10,8
+2286,42,Female,Tennis Elbow,7,Reduced Pain (Elbow),Wrist Extensor Stretches,Grip Strengthening Exercises,Eccentric Wrist Extensions,2,11,4,12,3,9,4
+1437,28,Male,Meniscus Tear,1,Improved ROM (Knee),Hamstring Curls (light weight),Ankle Circles,Walking Squats (modified),2,10,4,12,4,10,3
+2116,20,Male,Shoulder Bursitis,8,Improved Flexibility (Shoulder),Pendulum Exercises,Posture Exercises,Scapular Retractions,4,10,3,12,3,12,5
+5761,29,Male,Scoliosis,6,Improved Posture,Stretching Exercises,Core Strengthening Exercises,Pilates,4,12,4,12,3,8,4
+3821,64,Female,Wrist Carpal Tunnel,0,Reduced Pain (Wrist),Grip Strengthening Exercises,Wrist Extensor Stretches,Wrist Stretches,4,9,1,9,2,8,6
+9217,56,Male,Hip Labral Tear,7,Improved ROM (Hip),Plank (high),Glute Bridges,Internal Rotations (light weight),4,11,2,10,3,10,3
+8225,31,Female,Rotator Cuff Tear,10,Improved ROM (Shoulder),Internal Rotations (isometric),External Rotations (light weight),Pendulum Exercises,2,11,2,12,4,8,6
+3280,20,Female,Tennis Elbow,9,Improved Strength (Forearm),Eccentric Wrist Extensions,Wrist Extensor Stretches,Grip Strengthening Exercises,4,9,2,9,3,11,5
+6046,41,Male,Hip Labral Tear,9,Increased Strength (Hip),External Rotations,Glute Bridges,Plank (high),2,10,4,10,4,11,10
+2904,63,Male,Shoulder Bursitis,0,Reduced Pain (Shoulder),Pendulum Exercises,Posture Exercises,Plank (high),3,11,3,9,4,12,5
+7801,58,Female,Plantar Fasciitis,2,Reduced Pain (Plantar Fascia),Short Foot Exercises,Plantar Fascia Massage,Towel Toe Curls,3,10,2,10,3,8,8
+7931,47,Male,Achilles Tendinitis,1,Reduced Pain (Achilles Tendon),Wall Sits,Calf Raises (seated),Eccentric Heel Drops,3,11,1,11,4,9,8
+7492,53,Male,Patellar Tendinitis,5,Increased Flexibility (Knee),Calf Raises (seated),Ankle Circles,Plank (high),2,11,1,9,2,8,3
+9661,47,Female,Hip Arthritis,4,Reduced Pain (Hip),"Water Exercises (walking, aerobics)",Glute Bridges,Range of Motion Exercises (hip),3,10,4,11,4,10,10
+8962,34,Female,Rotator Cuff Tear,2,Increased Strength (Shoulder),External Rotations (light weight),Internal Rotations (isometric),Pendulum Exercises,3,12,3,9,4,12,5
+7469,60,Male,Patellar Tendinitis,7,Reduced Pain (Knee),Wall Sits,Quad Extensions (isometric),Hamstring Curls (light weight),3,9,1,8,4,11,8
+8668,47,Male,Achilles Tendinitis,4,Increased Strength (Calf),Ankle Circles (both directions),Wall Sits,Calf Raises (seated),3,9,3,11,3,8,8
+1248,61,Female,ACL Tear,2,Improved ROM (Knee),Calf Raises (seated),Hamstring Curls (light weight),Plank (high),3,8,1,11,4,12,10
+8795,48,Male,Ankle Strain,2,Improved Flexibility (Ankle),Balance Exercises (single leg stance),Ankle Circles (both directions),Plantar Fascia Massage,3,10,1,10,4,11,8
+9711,39,Male,Golfer's Elbow,4,Improved Strength (Forearm),Grip Strengthening Exercises,Eccentric Wrist Flexions,Wrist Flexor Stretches,4,10,3,8,2,8,9
+5997,40,Male,Ankle Sprain,7,Improved ROM (Ankle),Balance Exercises (single leg stance),Towel Toe Curls,Calf Raises (seated),3,12,1,11,2,9,8
+5783,59,Male,Meniscus Tear,2,Reduced Pain (Knee),Short Arc Quad Sets,Hamstring Curls (light weight),Calf Raises (seated),4,10,2,12,4,9,7
+9764,52,Female,Tennis Elbow,1,Improved Strength (Forearm),Wrist Extensor Stretches,Eccentric Wrist Extensions,Grip Strengthening Exercises,2,10,4,12,4,10,5
+5887,21,Female,ACL Tear,5,Improved ROM (Knee),Plank (high),"Lunges (forward/reverse, bodyweight)",Calf Raises (seated),2,9,1,9,3,12,8
+1659,54,Male,Osgood-Schlatter,6,Reduced Inflammation (Knee),Calf Raises (seated),Straight Leg Raises,Hamstring Curls (light weight),2,12,1,11,3,12,4
+5482,57,Male,Hip Bursitis,8,Reduced Pain (Hip),Clamshells,Side Plank,Hip Flexor Stretches,3,12,1,10,2,10,3
+2434,45,Female,Wrist Carpal Tunnel,8,Improved Flexibility (Wrist),Wrist Stretches,Wrist Flexor Stretches,Grip Strengthening Exercises,2,8,2,9,2,10,5
+9151,52,Male,Scoliosis,10,Improved Posture,Pilates,Back Extension Exercises,Core Strengthening Exercises,3,9,1,9,3,10,4
+2769,59,Female,Achilles Tendinitis,6,Increased Strength (Calf),Ankle Circles (both directions),Wall Sits,Eccentric Heel Drops,2,11,1,9,2,10,9
+3618,40,Female,Meniscus Tear,9,Improved ROM (Knee),Hamstring Curls (light weight),Short Arc Quad Sets,Calf Raises (seated),2,11,3,12,4,9,4
+3734,61,Female,Wrist Carpal Tunnel,6,Reduced Pain (Wrist),Wrist Flexor Stretches,Wrist Extensor Stretches,Wrist Stretches,3,12,4,8,2,8,7
+4964,25,Female,Ankle Sprain,3,Improved Stability (Ankle),Calf Raises (seated),Balance Exercises (single leg stance),Towel Toe Curls,4,10,1,11,3,10,6
+9625,46,Female,Wrist Strain,4,Reduced Pain (Wrist),Wrist Flexor Stretches,Wrist Stretches,Wrist Extensor Stretches,3,11,2,12,4,8,3
+5043,34,Male,Labrum Tear,3,Improved ROM (Shoulder),Pendulum Exercises,Plank (high),Internal Rotations (isometric),3,12,1,10,3,12,8
+2563,24,Female,Lordosis,1,Improved Posture,Pelvic Tilt Exercises,Core Strengthening Exercises,Stretching Exercises,3,12,2,9,2,10,6
+7737,53,Female,Frozen Shoulder,6,Improved ROM (Shoulder),Passive Range of Motion Exercises (shoulder),Heat Therapy,Doorway Shoulder Stretches,2,12,4,9,2,10,7
+4500,57,Male,Plantar Fasciitis,9,Reduced Pain (Plantar Fascia),Plantar Fascia Massage,Towel Toe Curls,Short Foot Exercises,3,12,3,10,4,10,6
+5826,52,Female,Shoulder Bursitis,9,Improved Flexibility (Shoulder),Posture Exercises,Pendulum Exercises,Plank (high),3,9,2,12,3,10,10
+4203,43,Male,ACL Tear,0,Improved ROM (Knee),"Lunges (forward/reverse, bodyweight)",Walking Squats (modified),Hamstring Curls (light weight),3,8,3,12,3,11,7
+9854,58,Female,Patellar Tendinitis,4,Reduced Pain (Knee),Wall Sits,Hamstring Curls (light weight),Plank (high),3,10,4,8,3,10,6
+6613,22,Male,Wrist Strain,1,Improved Flexibility (Wrist),Wrist Extensor Stretches,Grip Strengthening Exercises,Wrist Stretches,4,12,3,10,3,9,3
+1307,39,Female,Ankle Sprain,10,Improved Stability (Ankle),Calf Raises (seated),Towel Toe Curls,Ankle Circles (both directions),4,10,3,9,3,12,9
+5432,32,Female,Scoliosis,3,Increased Core Strength,Stretching Exercises,Back Extension Exercises,Pilates,4,8,3,8,2,10,7
+6171,49,Male,Meniscus Tear,7,Reduced Pain (Knee),Short Arc Quad Sets,Ankle Circles,Hamstring Curls (light weight),3,11,3,10,4,9,8
+2212,25,Male,Hip Labral Tear,0,Increased Strength (Hip),Glute Bridges,External Rotations,Plank (high),2,12,4,9,3,10,7
+1739,26,Male,Hip Labral Tear,5,Increased Strength (Hip),External Rotations,Internal Rotations (light weight),Plank (high),4,9,1,9,2,9,9
+6212,51,Female,Wrist Sprain,9,Improved Stability (Wrist),Wrist Extensor Stretches,Grip Strengthening Exercises,Wrist Flexor Stretches,3,11,1,9,4,10,10
+3321,41,Female,Plantar Fasciitis,9,Improved Flexibility (Plantar Fascia),Plantar Fascia Massage,Calf Stretches,Towel Toe Curls,2,11,4,8,2,11,5
+2076,20,Male,Wrist Sprain,10,Improved ROM (Wrist),Wrist Flexor Stretches,Wrist Extensor Stretches,Wrist Stretches,3,9,1,10,3,12,10
+5050,25,Male,ACL Tear,5,Increased Strength (Knee),Walking Squats (modified),Calf Raises (seated),Ankle Circles,3,8,4,10,3,10,7
+1303,21,Male,Osgood-Schlatter,5,Reduced Pain (Knee),Hamstring Curls (light weight),Calf Raises (seated),Ankle Circles,4,8,2,10,4,8,8
+1629,21,Female,Plantar Fasciitis,2,Reduced Pain (Plantar Fascia),Short Foot Exercises,Calf Stretches,Plantar Fascia Massage,3,12,4,8,2,11,9
+1462,23,Female,Wrist Sprain,8,Improved ROM (Wrist),Grip Strengthening Exercises,Wrist Stretches,Wrist Extensor Stretches,4,12,3,10,4,8,4
+6359,30,Male,ACL Tear,10,Increased Strength (Knee),Plank (high),"Lunges (forward/reverse, bodyweight)",Calf Raises (seated),3,11,1,12,3,11,9
+8536,43,Female,Golfer's Elbow,2,Reduced Pain (Elbow),Wrist Flexor Stretches,Eccentric Wrist Flexions,Grip Strengthening Exercises,2,12,4,8,4,10,5
+2323,35,Female,Frozen Shoulder,8,Improved ROM (Shoulder),Passive Range of Motion Exercises (shoulder),Heat Therapy,Doorway Shoulder Stretches,3,11,2,12,4,11,8
+8544,58,Male,Wrist Strain,9,Improved Flexibility (Wrist),Grip Strengthening Exercises,Wrist Stretches,Wrist Extensor Stretches,4,12,2,12,2,9,8
+4594,39,Female,Rotator Cuff Tear,5,Increased Strength (Shoulder),Internal Rotations (isometric),Pendulum Exercises,Scapular Retractions,4,11,1,10,4,10,10
+9643,30,Male,Rotator Cuff Tear,7,Improved ROM (Shoulder),Internal Rotations (isometric),Scapular Retractions,Pendulum Exercises,2,10,4,11,2,9,8
+4485,49,Male,ACL Tear,8,Increased Strength (Knee),"Lunges (forward/reverse, bodyweight)",Ankle Circles,Plank (high),3,8,2,10,3,12,4
+3359,48,Female,Tennis Elbow,10,Reduced Pain (Elbow),Grip Strengthening Exercises,Eccentric Wrist Extensions,Wrist Extensor Stretches,3,10,1,12,2,9,9
+8401,55,Female,Hip Bursitis,2,Reduced Pain (Hip),Hip Flexor Stretches,Side Plank,Glute Bridges,3,12,2,12,3,9,9
+7019,30,Female,Labrum Tear,6,Improved Stability (Shoulder),Internal Rotations (isometric),Plank (high),Pendulum Exercises,2,10,1,8,3,9,10
+1487,27,Male,Scoliosis,5,Increased Core Strength,Core Strengthening Exercises,Back Extension Exercises,Pilates,3,9,4,11,4,12,4
+1747,60,Male,Frozen Shoulder,5,Improved ROM (Shoulder),Passive Range of Motion Exercises (shoulder),Doorway Shoulder Stretches,Heat Therapy,2,10,4,9,3,8,10
+7766,54,Female,Lordosis,4,Improved Posture,Strengthening Exercises (Abs and Lower Back),Core Strengthening Exercises,Pelvic Tilt Exercises,4,10,1,11,3,8,7
+1148,62,Male,Meniscus Tear,8,Improved ROM (Knee),Walking Squats (modified),Hamstring Curls (light weight),Side Plank,4,8,3,12,4,8,9
+1919,29,Male,Rotator Cuff Tear,9,Increased Strength (Shoulder),Internal Rotations (isometric),External Rotations (light weight),Pendulum Exercises,2,12,2,12,3,8,5
+6583,56,Male,Tennis Elbow,10,Improved Strength (Forearm),Grip Strengthening Exercises,Wrist Extensor Stretches,Eccentric Wrist Extensions,3,12,2,9,4,12,6
+7390,57,Female,Hip Bursitis,6,Improved Flexibility (Hip),Glute Bridges,Side Plank,Clamshells,4,9,2,11,2,12,5
+6897,21,Male,Golfer's Elbow,2,Reduced Pain (Elbow),Grip Strengthening Exercises,Eccentric Wrist Flexions,Wrist Flexor Stretches,3,10,2,12,4,9,10
+6333,57,Male,Tennis Elbow,9,Improved Strength (Forearm),Grip Strengthening Exercises,Wrist Extensor Stretches,Eccentric Wrist Extensions,3,12,1,10,2,11,4
+3193,60,Male,Patellar Tendinitis,0,Increased Flexibility (Knee),Wall Sits,Plank (high),Ankle Circles,4,11,2,10,4,12,5
+1852,27,Male,Labrum Tear,1,Improved Stability (Shoulder),External Rotations (light weight),Internal Rotations (isometric),Plank (high),2,11,4,12,4,12,5
+8887,61,Male,Lordosis,8,Improved Posture,Strengthening Exercises (Abs and Lower Back),Pelvic Tilt Exercises,Core Strengthening Exercises,2,8,3,11,3,9,4
+5719,42,Female,ACL Tear,7,Increased Strength (Knee),"Lunges (forward/reverse, bodyweight)",Calf Raises (seated),Hamstring Curls (light weight),2,10,2,10,2,10,8
+8770,20,Female,Hip Arthritis,7,Improved Joint Mobility (Hip),Range of Motion Exercises (hip),Glute Bridges,"Water Exercises (walking, aerobics)",2,10,4,11,3,12,4
+6750,55,Male,Tennis Elbow,7,Reduced Pain (Elbow),Eccentric Wrist Extensions,Grip Strengthening Exercises,Wrist Extensor Stretches,2,10,3,11,2,10,6
+8358,45,Female,ACL Tear,3,Improved ROM (Knee),Walking Squats (modified),Hamstring Curls (light weight),Calf Raises (seated),4,8,4,12,2,10,3
+2712,65,Female,Patellar Tendinitis,5,Reduced Pain (Knee),Wall Sits,Quad Extensions (isometric),Hamstring Curls (light weight),3,12,3,8,4,12,5
+7041,63,Male,Kyphosis,8,Improved Posture,Thoracic Extension Exercises,Strengthening Exercises (Back and Shoulders),Posture Correction Exercises,4,10,4,10,3,12,9
+8753,21,Female,Labrum Tear,1,Improved ROM (Shoulder),Internal Rotations (isometric),External Rotations (light weight),Plank (high),2,11,3,8,2,11,4
+2994,64,Male,Lordosis,3,Improved Posture,Stretching Exercises,Strengthening Exercises (Abs and Lower Back),Core Strengthening Exercises,2,12,3,10,3,9,6
+6009,33,Male,Meniscus Tear,2,Reduced Pain (Knee),Short Arc Quad Sets,Ankle Circles,Side Plank,3,9,1,9,2,9,6
+8486,42,Female,Ankle Sprain,4,Improved ROM (Ankle),Ankle Circles (both directions),Calf Raises (seated),Towel Toe Curls,2,12,3,9,2,12,10
+4744,20,Female,Golfer's Elbow,7,Reduced Pain (Elbow),Grip Strengthening Exercises,Wrist Flexor Stretches,Eccentric Wrist Flexions,4,12,3,9,2,10,4
+5651,20,Female,Ankle Strain,1,Reduced Pain (Ankle),Plantar Fascia Massage,Balance Exercises (single leg stance),Ankle Circles (both directions),4,10,4,12,3,12,6
+2492,22,Female,Hip Bursitis,7,Reduced Pain (Hip),Glute Bridges,Clamshells,Side Plank,2,11,2,8,4,8,10
+1356,48,Male,Kyphosis,6,Improved Posture,Posture Correction Exercises,Thoracic Extension Exercises,Strengthening Exercises (Back and Shoulders),3,12,2,11,3,12,6
+2339,39,Male,Frozen Shoulder,0,Improved Flexibility (Shoulder),Passive Range of Motion Exercises (shoulder),Doorway Shoulder Stretches,Heat Therapy,3,10,4,12,3,10,7
+1546,29,Female,Wrist Carpal Tunnel,1,Reduced Pain (Wrist),Grip Strengthening Exercises,Wrist Flexor Stretches,Wrist Extensor Stretches,2,10,3,12,4,9,4
+8925,39,Female,Kyphosis,10,Strengthening Posterior Chain Muscles,Strengthening Exercises (Back and Shoulders),Stretching Exercises,Thoracic Extension Exercises,2,11,2,8,2,8,10
+5911,24,Male,Tennis Elbow,3,Reduced Pain (Elbow),Eccentric Wrist Extensions,Grip Strengthening Exercises,Wrist Extensor Stretches,4,11,2,11,4,10,4
+8181,39,Male,Hip Arthritis,10,Improved Joint Mobility (Hip),Glute Bridges,"Water Exercises (walking, aerobics)",Range of Motion Exercises (hip),3,12,2,12,3,8,6
+6495,58,Female,ACL Tear,8,Improved ROM (Knee),"Lunges (forward/reverse, bodyweight)",Plank (high),Walking Squats (modified),4,8,4,9,4,10,4
+4517,48,Male,Wrist Sprain,4,Improved Stability (Wrist),Wrist Flexor Stretches,Wrist Stretches,Wrist Extensor Stretches,3,8,2,9,4,12,8
+7109,46,Female,Osgood-Schlatter,9,Reduced Inflammation (Knee),Straight Leg Raises,Bird Dog,Hamstring Curls (light weight),4,9,3,11,3,10,7
+5094,43,Male,Golfer's Elbow,10,Improved Strength (Forearm),Wrist Flexor Stretches,Grip Strengthening Exercises,Eccentric Wrist Flexions,2,8,1,10,2,11,8
+6771,48,Female,Tennis Elbow,1,Improved Strength (Forearm),Eccentric Wrist Extensions,Grip Strengthening Exercises,Wrist Extensor Stretches,2,12,3,10,2,12,9
+7073,31,Male,Shoulder Bursitis,6,Reduced Pain (Shoulder),Pendulum Exercises,Scapular Retractions,Plank (high),3,11,4,9,2,12,6
+9606,46,Female,Scoliosis,10,Improved Posture,Stretching Exercises,Core Strengthening Exercises,Pilates,4,11,3,10,4,9,3
+3688,31,Male,Wrist Carpal Tunnel,9,Improved Flexibility (Wrist),Wrist Flexor Stretches,Wrist Extensor Stretches,Grip Strengthening Exercises,4,9,1,9,4,8,9
+7511,36,Female,Scoliosis,4,Increased Core Strength,Back Extension Exercises,Pilates,Stretching Exercises,4,8,4,9,3,9,7
+9073,37,Female,Hip Labral Tear,9,Increased Strength (Hip),External Rotations,Glute Bridges,Internal Rotations (light weight),2,11,4,10,4,9,5
+8323,32,Female,Hip Labral Tear,4,Increased Strength (Hip),Plank (high),External Rotations,Internal Rotations (light weight),4,12,1,11,4,11,4
